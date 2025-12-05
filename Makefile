@@ -1,4 +1,4 @@
-.PHONY: help install sync test verify clean dev-services frontend backend
+.PHONY: help install sync test verify pretty pretty-check clean dev-services frontend backend
 
 help:
 	@echo "Legal Immigration RAG System - Available Commands:"
@@ -7,6 +7,8 @@ help:
 	@echo "  make sync           - Sync dependencies from lock file"
 	@echo "  make test           - Run all tests"
 	@echo "  make verify         - Verify project setup"
+	@echo "  make pretty         - Format and lint (ruff + black)"
+	@echo "  make pretty-check   - Check formatting/lint (ruff + black --check)"
 	@echo "  make dev-services   - Start Redis and Weaviate with Docker"
 	@echo "  make frontend       - Start frontend dev server"
 	@echo "  make backend        - Start backend API server"
@@ -24,6 +26,14 @@ test:
 
 verify:
 	uv run python scripts/verify_setup.py
+
+pretty:
+	uv run ruff check --fix .
+	uv run black .
+
+pretty-check:
+	uv run ruff check .
+	uv run black --check .
 
 dev-services:
 	docker-compose up -d

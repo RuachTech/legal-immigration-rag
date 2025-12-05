@@ -3,7 +3,7 @@
 from abc import ABC, abstractmethod
 from dataclasses import dataclass
 from datetime import datetime
-from typing import Any, Dict, List, Optional
+from typing import Any, Optional
 
 
 @dataclass
@@ -25,7 +25,7 @@ class Chunk:
     document_id: str
     content: str
     summary: str
-    embedding: List[float]
+    embedding: list[float]
     metadata: ChunkMetadata
 
 
@@ -38,7 +38,7 @@ class VectorStore(ABC):
     """
     
     @abstractmethod
-    def add_chunks(self, chunks: List[Chunk]) -> None:
+    def add_chunks(self, chunks: list[Chunk]) -> None:
         """Store chunks with embeddings and metadata.
         
         Args:
@@ -50,28 +50,27 @@ class VectorStore(ABC):
     def hybrid_search(
         self,
         query: str,
-        query_embedding: List[float],
+        query_embedding: list[float],
         top_k: int = 10,
-        filters: Optional[Dict[str, Any]] = None
-    ) -> List[Chunk]:
+        filters: Optional[dict[str, Any]] = None
+    ) -> list[Chunk]:
         """Perform hybrid vector + keyword search.
         
         Args:
             query: The search query text
-            query_embedding: Vector representation of the query
-            top_k: Number of results to return
+            query_embedding: Embedding of the query
+            top_k: Number of top results to return
             filters: Optional metadata filters
-            
         Returns:
-            List of matching chunks ranked by relevance
+            List of relevant Chunk objects
         """
         pass
     
     @abstractmethod
     def delete_by_source(self, source: str) -> None:
-        """Remove all chunks from a specific source.
+        """Delete all chunks from a given source document.
         
         Args:
-            source: The source identifier to delete
+            source: Source document identifier
         """
         pass

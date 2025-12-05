@@ -3,7 +3,7 @@
 from abc import ABC, abstractmethod
 from dataclasses import dataclass
 from datetime import datetime
-from typing import List, Literal, Optional
+from typing import Literal, Optional
 
 
 @dataclass
@@ -29,8 +29,8 @@ class Message:
     id: str
     role: Literal["user", "assistant"]
     content: str
-    citations: List[Citation]
-    rationales: List[Rationale]
+    citations: list[Citation]
+    rationales: list[Rationale]
     timestamp: datetime
 
 
@@ -39,7 +39,7 @@ class Conversation:
     """A conversation session with message history."""
     session_id: str
     user_id: Optional[str]
-    messages: List[Message]
+    messages: list[Message]
     created_at: datetime
     last_active: datetime
 
@@ -62,14 +62,17 @@ class SessionStore(ABC):
         pass
     
     @abstractmethod
-    def get_session(self, session_id: str) -> Optional[Conversation]:
+    def get_session(self, session_id: str) -> Conversation:
         """Retrieve session by ID.
         
         Args:
             session_id: The session identifier
             
         Returns:
-            Conversation object if found, None otherwise
+            Conversation object
+            
+        Raises:
+            KeyError: If session not found
         """
         pass
     

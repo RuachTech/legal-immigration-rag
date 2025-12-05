@@ -29,6 +29,8 @@ All storage and external service dependencies are accessed through abstract base
 - Easy mocking for unit tests
 - Future-proof architecture
 
+also follow SOLID principles to ensure maintainability and extensibility. use python 3.10+ typing features for clarity.
+
 ### System Components
 
 The system follows a modular, microservices-inspired architecture with clear separation of concerns:
