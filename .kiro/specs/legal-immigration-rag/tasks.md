@@ -49,12 +49,14 @@
 
 - [x] 3.3 Implement Summary-Augmented Chunking (SAC)
   - Create chunker that splits documents by semantic boundaries
-  - Generate document-level summary using LLM
-  - Prepend summary to every chunk before embedding
+  - Generate chunk-level summaries using LLM (gpt-4.1-nano via litellm)
+  - Prepend structured metadata headers + summary to every chunk before embedding
   - Attach complete metadata to each chunk
+  - Implement quality control with automated flagging (needs_review field)
   - _Requirements: 2.3, 2.5_
+  - _Learnings: See docs/sac-implementation-learnings.md_
 
-- [ ] 3.4 Write property test for SAC implementation
+- [x] 3.4 Write property test for SAC implementation
   - **Property 5: Summary-Augmented Chunking Prepends Summaries**
   - **Validates: Requirements 2.3**
 
