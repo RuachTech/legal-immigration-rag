@@ -1,0 +1,41 @@
+{
+  "started_at": "2025-12-06T17:31:59.312544",
+  "completed_at": "2025-12-06T17:32:23.965372",
+  "total_urls": 3,
+  "scraped": 3,
+  "failed": 0,
+  "skipped": 0,
+  "total_chunks": 46,
+  "results": [
+    {
+      "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-6-self-employment-and-business-people",
+      "slug": "part-6-self-employment-and-business-people",
+      "title": "Immigration Rules part 6: self-employment and business people",
+      "status": "success",
+      "chunk_count": 29,
+      "error": null,
+      "scraped_at": "2025-12-06T17:32:01.555806",
+      "duration_seconds": 2.183266
+    },
+    {
+      "url": "https://www.gov.uk/guidance/immigration-rules/appendix-statelessness",
+      "slug": "appendix-statelessness",
+      "title": "Appendix Statelessness",
+      "status": "success",
+      "chunk_count": 0,
+      "error": null,
+      "scraped_at": "2025-12-06T17:32:22.390683",
+      "duration_seconds": 20.834146
+    },
+    {
+      "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-permitted-activities",
+      "slug": "appendix-visitor-permitted-activities",
+      "title": "Immigration Rules Appendix Visitor: Permitted Activities",
+      "status": "success",
+      "chunk_count": 17,
+      "error": null,
+      "scraped_at": "2025-12-06T17:32:23.964350",
+      "duration_seconds": 1.572924
+    }
+  ]
+}

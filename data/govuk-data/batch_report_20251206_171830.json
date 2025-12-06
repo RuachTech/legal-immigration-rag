@@ -1,0 +1,31 @@
+{
+  "started_at": "2025-12-06T17:18:26.203027",
+  "completed_at": "2025-12-06T17:18:30.906105",
+  "total_urls": 2,
+  "scraped": 2,
+  "failed": 0,
+  "skipped": 0,
+  "total_chunks": 10,
+  "results": [
+    {
+      "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-11a-temporary-protection",
+      "slug": "part-11a-temporary-protection",
+      "title": "Immigration Rules part 11A: temporary protection",
+      "status": "success",
+      "chunk_count": 3,
+      "error": null,
+      "scraped_at": "2025-12-06T17:18:29.441948",
+      "duration_seconds": 3.172965
+    },
+    {
+      "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-11b",
+      "slug": "part-11b",
+      "title": "Immigration Rules part 11B",
+      "status": "success",
+      "chunk_count": 7,
+      "error": null,
+      "scraped_at": "2025-12-06T17:18:30.905614",
+      "duration_seconds": 1.463026
+    }
+  ]
+}

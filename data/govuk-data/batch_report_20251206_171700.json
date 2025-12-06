@@ -1,0 +1,41 @@
+{
+  "started_at": "2025-12-06T17:16:51.874339",
+  "completed_at": "2025-12-06T17:17:00.132656",
+  "total_urls": 3,
+  "scraped": 3,
+  "failed": 0,
+  "skipped": 0,
+  "total_chunks": 71,
+  "results": [
+    {
+      "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-index",
+      "slug": "index",
+      "title": "Immigration Rules: Index",
+      "status": "success",
+      "chunk_count": 0,
+      "error": null,
+      "scraped_at": "2025-12-06T17:16:52.915904",
+      "duration_seconds": 0.962631
+    },
+    {
+      "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-introduction",
+      "slug": "introduction",
+      "title": "Immigration Rules: introduction",
+      "status": "success",
+      "chunk_count": 0,
+      "error": null,
+      "scraped_at": "2025-12-06T17:16:57.355142",
+      "duration_seconds": 4.438585
+    },
+    {
+      "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-11-asylum",
+      "slug": "part-11-asylum",
+      "title": "Immigration Rules part 11: asylum",
+      "status": "success",
+      "chunk_count": 71,
+      "error": null,
+      "scraped_at": "2025-12-06T17:17:00.131926",
+      "duration_seconds": 2.776368
+    }
+  ]
+}

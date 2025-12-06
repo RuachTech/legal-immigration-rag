@@ -1,0 +1,61 @@
+{
+  "started_at": "2025-12-06T17:22:05.623257",
+  "completed_at": "2025-12-06T17:22:20.994039",
+  "total_urls": 5,
+  "scraped": 5,
+  "failed": 0,
+  "skipped": 0,
+  "total_chunks": 61,
+  "results": [
+    {
+      "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-12-procedure-and-rights-of-appeal",
+      "slug": "part-12-procedure-and-rights-of-appeal",
+      "title": "Immigration Rules part 12: Procedure and rights of appeal",
+      "status": "success",
+      "chunk_count": 2,
+      "error": null,
+      "scraped_at": "2025-12-06T17:22:07.638271",
+      "duration_seconds": 1.956205
+    },
+    {
+      "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-13-deportation",
+      "slug": "part-13-deportation",
+      "title": "Immigration Rules part 13: deportation",
+      "status": "success",
+      "chunk_count": 4,
+      "error": null,
+      "scraped_at": "2025-12-06T17:22:10.938587",
+      "duration_seconds": 3.299786
+    },
+    {
+      "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-14-stateless-persons",
+      "slug": "part-14-stateless-persons",
+      "title": "Immigration Rules part 14: stateless persons",
+      "status": "success",
+      "chunk_count": 15,
+      "error": null,
+      "scraped_at": "2025-12-06T17:22:16.170556",
+      "duration_seconds": 5.231648
+    },
+    {
+      "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-1-leave-to-enter-or-stay-in-the-uk",
+      "slug": "part-1-leave-to-enter-or-stay-in-the-uk",
+      "title": "Immigration Rules part 1: leave to enter or stay in the UK",
+      "status": "success",
+      "chunk_count": 39,
+      "error": null,
+      "scraped_at": "2025-12-06T17:22:18.491255",
+      "duration_seconds": 2.320195
+    },
+    {
+      "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-2-transitional-provisions",
+      "slug": "part-2-transitional-provisions",
+      "title": "Immigration Rules part 2: transitional provisions",
+      "status": "success",
+      "chunk_count": 1,
+      "error": null,
+      "scraped_at": "2025-12-06T17:22:20.993076",
+      "duration_seconds": 2.501165
+    }
+  ]
+}

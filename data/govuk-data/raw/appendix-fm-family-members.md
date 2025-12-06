@@ -1,0 +1,1357 @@
+---
+url: https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-family-members
+part_name: Immigration Rules Appendix FM: family members
+scraped_at: 2025-12-06T17:27:12.452052
+---
+
+Title: Immigration Rules - Immigration Rules Appendix FM: family members - Guidance
+
+URL Source: https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-family-members
+
+Markdown Content:
+Immigration Rules - Immigration Rules Appendix FM: family members - Guidance - GOV.UK 
+
+===============
+
+Cookies on GOV.UK
+-----------------
+
+We use some essential cookies to make this website work.
+
+We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.
+
+We also use cookies set by other sites to help us deliver content from their services.
+
+You have accepted additional cookies. You can [change your cookie settings](https://www.gov.uk/help/cookies) at any time.
+
+You have rejected additional cookies. You can [change your cookie settings](https://www.gov.uk/help/cookies) at any time.
+
+Accept additional cookies Reject additional cookies[View cookies](https://www.gov.uk/help/cookies)
+
+ Hide cookie message 
+
+[Skip to main content](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-fm-family-members#content)
+
+[](https://www.gov.uk/)
+
+Navigation menu
+---------------
+
+[Menu](https://www.gov.uk/browse)Menu
+
+### Services and information
+
+*   [Benefits](https://www.gov.uk/browse/benefits)
+*   [Births, death, marriages and care](https://www.gov.uk/browse/births-deaths-marriages)
+*   [Business and self-employed](https://www.gov.uk/browse/business)
+*   [Childcare and parenting](https://www.gov.uk/browse/childcare-parenting)
+*   [Citizenship and living in the UK](https://www.gov.uk/browse/citizenship)
+*   [Crime, justice and the law](https://www.gov.uk/browse/justice)
+*   [Disabled people](https://www.gov.uk/browse/disabilities)
+*   [Driving and transport](https://www.gov.uk/browse/driving)
+*   [Education and learning](https://www.gov.uk/browse/education)
+*   [Employing people](https://www.gov.uk/browse/employing-people)
+*   [Environment and countryside](https://www.gov.uk/browse/environment-countryside)
+*   [Housing and local services](https://www.gov.uk/browse/housing-local-services)
+*   [Money and tax](https://www.gov.uk/browse/tax)
+*   [Passports, travel and living abroad](https://www.gov.uk/browse/abroad)
+*   [Visas and immigration](https://www.gov.uk/browse/visas-immigration)
+*   [Working, jobs and pensions](https://www.gov.uk/browse/working)
+
+### Government activity
+
+*   [Departments](https://www.gov.uk/government/organisations)
+Departments, agencies and public bodies
+
+*   [News](https://www.gov.uk/search/news-and-communications)
+News stories, speeches, letters and notices
+
+*   [Guidance and regulation](https://www.gov.uk/search/guidance-and-regulation)
+Detailed guidance, regulations and rules
+
+*   [Research and statistics](https://www.gov.uk/search/research-and-statistics)
+Reports, analysis and official statistics
+
+*   [Policy papers and consultations](https://www.gov.uk/search/policy-papers-and-consultations)
+Consultations and strategy
+
+*   [Transparency](https://www.gov.uk/search/transparency-and-freedom-of-information-releases)
+Data, Freedom of Information releases and corporate reports
+
+ Search GOV.UK  × [Search GOV.UK](https://www.gov.uk/search)
+
+### Search
+
+Search GOV.UK 
+
+When search suggestions are available use up and down arrows to review and enter to select. Touch device users, explore by touch or with swipe gestures.
+
+ Search 
+
+1.   [Home](https://www.gov.uk/)
+2.   [Entering and staying in the UK](https://www.gov.uk/entering-staying-uk)
+3.   [Immigration adviser services](https://www.gov.uk/entering-staying-uk/immigration-adviser-services)
+
+Immigration Rules
+=================
+
+From:[Home Office](https://www.gov.uk/government/organisations/home-office)Published 25 February 2016 Updated: 25 November 2025 - [See all updates](https://www.gov.uk/guidance/immigration-rules/updates)
+
+Search this manual 
+
+ Search 
+
+1.   [Back to contents](https://www.gov.uk/guidance/immigration-rules)
+
+Immigration Rules Appendix FM: family members
+=============================================
+
+Family members
+
+Show all sections
+
+General, Show
+-------------
+
+### Section GEN: General
+
+### Purpose
+
+GEN.1.1. This route is for those seeking to enter or remain in the UK on the basis of their family life with a person who is a British Citizen, is settled in the UK, is in the UK with protection status, is in the UK with permission as a Stateless person (and the applicant cannot seek entry clearance or permission as their family member under Appendix Statelessness of these rules), is in the UK with limited leave under Appendix EU, or is in the UK with limited leave as a worker or business person by virtue of either Appendix ECAA Extension of Stay or under the provisions of the relevant 1973 Immigration Rules (or Decision 1/80) that underpinned the European Community Association Agreement (ECAA) with Turkey prior to 1 January 2021. It sets out the requirements to be met and, in considering applications under this route, it reflects how, under Article 8 of the Human Rights Convention, the balance will be struck between the right to respect for private and family life and the legitimate aims of protecting national security, public safety and the economic well-being of the UK; the prevention of disorder and crime; the protection of health or morals; and the protection of the rights and freedoms of others (and in doing so also reflects the relevant public interest considerations as set out in Part 5A of the Nationality, Immigration and Asylum Act 2002). It also takes into account the need to safeguard and promote the welfare of children in the UK, in line with the Secretary of State’s duty under section 55 of the Borders, Citizenship and Immigration Act 2009.
+
+### Definitions
+
+1.   GEN.1.2. For the purposes of this Appendix “partner” means the applicant’s- 
+    1.   (i) spouse; or
+    2.   (ii) civil partner; or
+    3.   (iii) fiancé(e) or proposed civil partner; or
+    4.   (iv) unmarried partner, where the couple have been in a relationship similar to marriage or civil partnership for at least 2 years before the date of application.
+
+GEN.1.3. For the purposes of this Appendix
+
+1.   (a) “application for leave to remain” also includes an application for variation of leave to enter or remain by a person in the UK;
+2.   (b) references to a person being present and settled in the UK also include a person who is being admitted for settlement on the same occasion as the applicant;
+3.   (c) references to a British Citizen in the UK also include a British Citizen who is coming to the UK with the applicant as their partner or parent;
+4.   (d) references to a person being “in the UK with limited leave under Appendix EU” mean an EEA national in the UK who holds valid limited leave to enter or remain granted under paragraph EU3 of Appendix EU to these Rules on the basis of meeting condition 1(a)(i) in paragraph EU14 of that Appendix; and
+5.   (e) references to a person being “in the UK with limited leave as a worker or business person under Appendix ECAA Extension of Stay” mean a person granted such leave by virtue of either Appendix ECAA Extension of Stay or under the provisions of the relevant 1973 Immigration Rules (or Decision 1/80) that underpinned the European Community Association Agreement (ECAA) with Turkey prior to 1 January 2021.
+
+GEN.1.4. In this Appendix “specified” means specified in Appendix FM-SE, unless otherwise stated.
+
+GEN.1.5. If the Entry Clearance Officer, or Secretary of State, has reasonable cause to doubt the genuineness of any document submitted in support of an application, and having taken reasonable steps to verify the document, is unable to verify that it is genuine, the document will be discounted for the purposes of the application.
+
+GEN.1.6. For the purposes of paragraph E-ECP.4.1.(a); E-LTRP.4.1.(a); E-LTRP.4.1A.(a); E-ECPT. 4.1(a); E-LTRPT.5.1.(a); and E-LTRPT.5.1A.(a) the applicant must be a national of Antigua and Barbuda; Australia; the Bahamas; Barbados; Belize; the British Overseas Territories; Canada; Dominica; Grenada; Guyana; Jamaica; Malta; New Zealand; St Kitts and Nevis; St Lucia; St Vincent and the Grenadines; Trinidad and Tobago; or the United States of America.
+
+GEN.1.7. In this Appendix references to paragraphs are to paragraphs of this Appendix unless the context otherwise requires.
+
+GEN.1.8. Paragraphs 277-280, 289AA, 295AA and 296 of Part 8 of these Rules shall apply to this Appendix.
+
+GEN.1.9. In this Appendix:
+
+1.   (a) the requirement to make a valid application will not apply when the Article 8 claim is raised: 
+    1.   (i) as part of an asylum claim, or as part of a further submission in person after an asylum claim has been refused;
+    2.   (ii) where a migrant is in immigration detention. A migrant in immigration detention or their representative must submit any application or claim raising Article 8 to a prison officer, a prisoner custody officer, a detainee custody officer or a member of Home Office staff at the migrant’s place of detention; or
+    3.   (iii) in an appeal (subject to the consent of the Secretary of State where applicable); and
+
+2.   (b) where an application or claim raising Article 8 is made in any of the circumstances specified in paragraph GEN.1.9.(a), or is considered by the Secretary of State under paragraph A277C of these rules, the requirements of paragraphs R-LTRP.1.1.(c) and R-LTRPT.1.1.(c) are not met.
+
+GEN.1.10. Where paragraph GEN.3.1.(2) or GEN.3.2.(3) applies, and the applicant is granted entry clearance or leave to enter or remain under, as appropriate, paragraph D-ECP.1.2., D-LTRP.1.2., D-ECC.1.1., D-LTRC.1.1., D-ECPT.1.2. or D-LTRPT.1.2., that grant of entry clearance or leave to enter or remain will be subject to a condition of no recourse to public funds unless the decision-maker considers, with reference to paragraph GEN.1.11A., that the applicant should not be subject to such a condition.
+
+GEN.1.11. Where entry clearance or leave to enter or remain is granted under this Appendix (and without prejudice to the specific provision that is made in this Appendix in respect of a no recourse to public funds condition), that leave may be subject to such conditions as the decision-maker considers appropriate in a particular case.
+
+1.   GEN.1.11A. Where entry clearance or leave to remain as a partner, child or parent is granted under D-ECP.1.2., D-LTRP.1.2., D-ECC.1.1., D-LTRC.1.1., D-ECPT.1.2. or D-LTRPT.1.2., if the decision maker is satisfied that: 
+    1.   (a) the applicant is destitute as defined in section 95 of the Immigration and Asylum Act 1999, or is at risk of imminent destitution; or
+    2.   (b) there are reasons relating to the welfare of a relevant child which outweigh the considerations for imposing or maintaining the condition (treating the best interests of a relevant child as a primary consideration); or
+    3.   (c) the applicant is facing exceptional circumstances affecting their income or expenditure
+
+2.   then the applicant will not be subject to a condition of no access to public funds. If the decision maker is not so satisfied, the applicant will be subject to a condition of no access to public funds.
+
+1.   GEN 1.11B. For the purposes of GEN 1.11A ‘relevant child’ means a person who: 
+    1.   (a) is under the age of 18 years at the date of application; and
+    2.   (b) it is clear from the information provided by the applicant, is a child who would be affected by a decision to impose or maintain the no access to public funds condition.
+
+GEN.1.12. In this Appendix, “decision-maker” refers, as the case may be, to the Secretary of State, an Immigration Officer or an Entry Clearance Officer.
+
+GEN.1.13. For the purposes of paragraphs D-LTRP.1.1., D-LTRP.1.2., DILRP.1.2., D-LTRPT.1.1., D-LTRPT.1.2. and D-ILRPT.1.2. (excluding a grant of limited leave to remain as a fiancé(e) or proposed civil partner), where at the date of application the applicant has extant leave as a partner or parent (as applicable) granted under this Appendix, the remaining period of that extant leave up to a maximum of 28 days will be added to the period of limited leave to remain granted under that paragraph (which may therefore exceed 30 months).
+
+GEN.1.14. Where a person aged 18 or over is granted entry clearance or limited leave to enter or remain under this Appendix, or where a person granted such entry clearance or limited leave to enter or remain will be aged 18 before that period of entry clearance or limited leave expires, the entry clearance or leave will, in addition to any other conditions which may apply, be granted subject to the conditions in Appendix ATAS of these rules.
+
+GEN.1.15. Where, pursuant to paragraph D-ILRP.1.2., D-ILRP.1.3., D-ILRPT.1.2. or D-ILRPT.1.3., a person who has made an application for indefinite leave to remain under this Appendix does not meet the requirements for indefinite leave to remain, but the Secretary of State believes they may qualify for limited leave to remain under this Appendix or under Appendix Private Life:
+
+1.   (a) the Secretary of State will instead treat the application for indefinite leave to remain as an application for limited leave to remain; and
+2.   (b) the Secretary of State will notify the applicant in writing of any requirement to pay an immigration health charge under the Immigration (Health Charge) Order 2015 in relation to that application for limited leave to remain; and
+3.   (c) if any requested immigration health charge is not paid, the application for limited leave to remain will be invalid and will not be considered and the Secretary of State will not refund any fee paid in respect of the application for indefinite leave to remain.
+
+GEN.1.16. Where an application or claim raising Article 8 is considered under Appendix FM and EX.1. applies, the requirements of paragraphs R-LTRP.1.1.(c) and R-LTRPT.1.1.(c) are not met.
+
+GEN.1.17. An application for settlement as a partner or parent (or the dependent child of a partner or parent) on the basis of a 10-year qualifying period for settlement must meet the requirements under Appendix Settlement Family Life (and the application for settlement will not be considered under this Appendix).
+
+### Leave to enter
+
+GEN.2.1. Subject to paragraph GEN.2.3., the requirements to be met by a person seeking leave to enter the UK under this route are that the person-
+
+1.   (a) must have a valid entry clearance for entry under this route; and
+2.   (b) must produce to the Immigration Officer on arrival a valid national passport or other document satisfactorily establishing their identity and nationality.
+
+GEN.2.2. If a person does not meet the requirements of paragraph GEN.2.1. entry will be refused.
+
+GEN.2.3.(1). Where an applicant for leave to enter the UK remains in the UK on immigration bail and the requirements of sub-paragraph (2) are met, paragraph GEN.1.10., D-LTRP.1.2., D-LTRC.1.1. or D-LTRPT.1.2. (as appropriate) will apply, as if paragraph D-LTRP.1.2., D-LTRC.1.1. or D-LTRPT.1.2. (where relevant) provided for the granting of leave to enter not leave to remain (and except that the references to leave to remain and limited leave to remain are to be read as leave to enter).
+
+(2). The requirements of this sub-paragraph are met where:
+
+(a) the applicant satisfies the requirements in paragraph R-LTRP.1.1.(a), (b) and (d), paragraph R-LTRC.1.1.(a), (b) and (d) or paragraph R-LTRPT.1.1.(a), (b) and (d), as if those were requirements for leave to enter not leave to remain (and except that the references to leave to remain and indefinite leave to remain are to be read as leave to enter); or
+
+(b) a parent of the applicant has been granted leave to enter in accordance with this paragraph and the applicant satisfies the requirements in paragraph R-LTRC.1.1.(a), (b) and (d), as if those were requirements for leave to enter not leave to remain and as if paragraph R-LTRC.1.1.(d)(iii) referred to a parent of the applicant being or having been granted leave to enter in accordance with this paragraph (and except that the references to leave to remain are to be read as leave to enter).
+
+Exceptional circumstances, Show
+-------------------------------
+
+1.   GEN.3.1.(1) Where: 
+    1.   (a) the financial requirement in paragraph E-ECP.3.1., E-LTRP.3.1., E-LTRP.3.7. (in the context of an application for limited leave to remain as a partner), E-ECC.2.1., E-ECC.2.5., E-LTRC.2.1., or E-LTRC.2.5. applies, and is not met from the specified sources referred to in the relevant paragraph; and
+    2.   (b) it is evident from the information provided by the applicant that there are exceptional circumstances which could render refusal of entry clearance or leave to remain a breach of Article 8 of the European Convention on Human Rights, because such refusal could result in unjustifiably harsh consequences for the applicant, their partner or a relevant child; then
+
+2.   the decision-maker must consider whether such financial requirement is met through taking into account the sources of income, financial support or funds set out in paragraph 21A(2) of Appendix FM-SE (subject to the considerations in sub-paragraphs (3) to (8) of that paragraph).
+
+(2) Where the financial requirement in paragraph E-ECP.3.1., E-LTRP.3.1., E-LTRP.3.7 (in the context of an application for limited leave to remain as a partner), E-ECC.2.1., E-ECC.2.5., E-LTRC.2.1., or E-LTRC.2.5. is met following consideration under sub-paragraph (1) (and provided that the other relevant requirements of the Immigration Rules are also met and the applicant does not meet D-ECP.1.2A.,D-LTRP.1.2A., D-ECC.1.1A and D-LTRC.1.1A), the applicant will be granted entry clearance or leave to remain under, as appropriate, paragraph D-ECP.1.2., D-LTRP.1.2., D-ECC.1.1., D-LTRC.1.1., Appendix Adoption of the Immigration Rules.
+
+GEN.3.2.(1) Subject to sub-paragraph (4), where an application for entry clearance or leave to enter or remain made under this Appendix, or an application for leave to remain which has otherwise been considered under this Appendix, does not otherwise meet the requirements of this Appendix or Part Suitability, the decision-maker must consider whether the circumstances in sub-paragraph (2) apply.
+
+(2) Where sub-paragraph (1) above applies, the decision-maker must consider, on the basis of the information provided by the applicant, whether there are exceptional circumstances which would render refusal of entry clearance, or leave to enter or remain, a breach of Article 8 of the European Convention on Human Rights, because such refusal would result in unjustifiably harsh consequences for the applicant, their partner, a relevant child or another family member whose Article 8 rights it is evident from that information would be affected by a decision to refuse the application.
+
+(3) Where the exceptional circumstances referred to in sub-paragraph (2) above apply, unless D.ECP.1.2A., D-LTRP.1.2A., D-ECPT.1.2A, D-LTRPT.1.2A., D-ECC.1.1A and D-LTRC.1.1A. applies, the applicant will be granted entry clearance or leave to enter or remain under, as appropriate, paragraph D-ECP.1.2., D-LTRP.1.2., D-ECC.1.1., D-LTRC.1.1., D-ECPT.1.2. or D-LTRPT.1.2.
+
+(4) DELETED.
+
+GEN.3.3.(1) In considering an application for entry clearance or leave to enter or remain where paragraph GEN.3.1. or GEN.3.2. applies, the decision-maker must take into account, as a primary consideration, the best interests of any relevant child.
+
+1.   (2) In paragraphs GEN.3.1. and GEN.3.2., and this paragraph, “relevant child” means a person who:
+
+    1.   (a) is under the age of 18 years at the date of the application; and
+    2.   (b) it is evident from the information provided by the applicant would be affected by a decision to refuse the application.
+
+Family life with a partner, Show
+--------------------------------
+
+### Section EC-P: Entry clearance as a partner
+
+EC-P.1.1. The requirements to be met for entry clearance as a partner are that-
+
+1.   (a) the applicant must be outside the UK;
+2.   (b) the applicant must have made a valid application for entry clearance as a partner;
+3.   (c) the applicant must not fall for refusal under Section S-EC: Suitability–entry clearance; and
+4.   (d) the applicant must meet all of the requirements of Section E-ECP: Eligibility for entry clearance as a partner.
+
+### Section S-EC: Suitability-entry clearance
+
+S-EC.1.1. The applicant must not fall for refusal under Part Suitability.
+
+S-EC.1.2. DELETED.
+
+S-EC.1.3. DELETED.
+
+S-EC.1.4. DELETED.
+
+S-EC.1.5. DELETED.
+
+S-EC.1.6. DELETED.
+
+S-EC.1.7. DELETED.
+
+S-EC.1.8. DELETED.
+
+S-EC.1.9. DELETED.
+
+S-EC.2.1. DELETED.
+
+S-EC.2.2. DELETED.
+
+S-EC.2.3. DELETED.
+
+S-EC.2.4. DELETED.
+
+S-EC.2.5. DELETED.
+
+S-EC.3.1. DELETED.
+
+S-EC.3.2. DELETED.
+
+### Section E-ECP: Eligibility for entry clearance as a partner
+
+E-ECP.1.1. To meet the eligibility requirements for entry clearance as a partner all of the requirements in paragraphs E-ECP.A1.1. to 4.2. must be met.
+
+E-ECP.A1.1. The applicant must provide a passport or other document which satisfactorily establishes their identity and nationality.
+
+### Relationship requirements
+
+E-ECP.2.1. The applicant’s partner must be-
+
+1.   (a) a British Citizen in the UK, subject to paragraph GEN.1.3.(c); or
+2.   (b) present and settled in the UK, subject to paragraph GEN.1.3.(b); or
+3.   (c) in the UK with protection status; or
+4.   (d) in the UK with limited leave under Appendix EU, in accordance with paragraph GEN 1.3.(d); or
+5.   (e) in the UK with limited leave as a worker or business person under Appendix ECAA Extension of Stay, in accordance with paragraph GEN.1.3.(e); or
+6.   (f) in the UK with permission as a Stateless person.
+
+E-ECP.2.2. The applicant must be aged 18 or over at the date of application.
+
+E-ECP.2.3. The partner must be aged 18 or over at the date of application.
+
+E-ECP.2.4. The applicant and their partner must not be within the prohibited degree of relationship.
+
+E-ECP.2.5. The applicant and their partner must have met in person.
+
+E-ECP.2.6. The relationship between the applicant and their partner must be genuine and subsisting.
+
+E-ECP.2.7. If the applicant and partner are married or in a civil partnership it must be a valid marriage or civil partnership, as specified.
+
+E-ECP.2.8. If the applicant is a fiancé(e) or proposed civil partner they must be seeking entry to the UK to enable their marriage or civil partnership to take place in the United Kingdom.
+
+E-ECP.2.9. (i) Any previous relationship of the applicant or their partner must have broken down permanently, unless it is a relationship which falls within paragraph 278(i) of these Rules; and
+
+(ii) If the applicant is a fiancé(e) or proposed civil partner, neither the applicant nor their partner can be married to, or in a civil partnership with, another person at the date of application.
+
+E-ECP.2.10. The applicant and partner must intend to live together permanently in the UK.
+
+### Financial requirements
+
+1.   E-ECP.3.1. The applicant must provide specified evidence, from the sources listed in paragraph E-ECP.3.2., of: 
+    1.   (a) a specified gross annual income of at least £29,000
+    2.   (b) specified savings of: 
+        1.   (i) £16,000; and
+        2.   (ii) additional savings of an amount equivalent to 2.5 times the amount which is the difference between the gross annual income from the sources listed in paragraph E-ECP.3.2.(a)- (d) and the total amount required under paragraph E-ECP.3.1.(a); or
+
+    3.   (c) the requirements in paragraph E-ECP.3.3. being met.
+
+E-ECP.3.2. When determining whether the financial requirement in paragraph E-ECP. 3.1. is met only the following sources will be taken into account-
+
+1.   (a) income of the partner from specified employment or self-employment, which, in respect of a partner returning to the UK with the applicant, can include specified employment or self-employment overseas and in the UK;
+2.   (b) specified pension income of the applicant and partner;
+3.   (c) any specified maternity allowance or bereavement benefit received by the partner in the UK or any specified payment relating to service in HM Forces received by the applicant or partner;
+4.   (d) other specified income of the applicant and partner; and
+5.   (e) specified savings of the applicant and partner.
+
+E-ECP.3.3. The requirements to be met under this paragraph are-
+
+1.   (a) the applicant’s partner must be receiving one or more of the following - 
+    1.   (i) Disability Living Allowance; or
+    2.   (ii) Severe Disablement Allowance; or
+    3.   (iii) Industrial Injuries Disablement Benefit; or
+    4.   (iv) Attendance Allowance; or
+    5.   (v) Carer’s Allowance; or
+    6.   (vi) Personal Independence Payment; or
+    7.   (vii) Armed Forces Independence Payment or Guaranteed Income Payment under the Armed Forces Compensation Scheme; or
+    8.   (viii) Constant Attendance Allowance, Mobility Supplement or War Disablement Pension under the War Pensions Scheme; or
+    9.   (ix) Police Injury Pension; or
+    10.   (x) Child Disability Payment (Scotland); or
+    11.   (xi) Adult Disability Payment (Scotland); or
+    12.   (xii) Carer’s Support Payment (Scotland); or
+    13.   (xiii) Pension Age Disability Payment (Scotland); or
+    14.   (xiv) Scottish Adult Disability Living Allowance (Scotland); and
+
+2.   (b) the applicant must provide evidence that their partner is able to maintain and accommodate themselves, the applicant and any dependants adequately in the UK without recourse to public funds.
+
+E-ECP.3.4. The applicant must provide evidence that there will be adequate accommodation, without recourse to public funds, for the family, including other family members who are not included in the application but who live in the same household, which the family own or occupy exclusively: accommodation will not be regarded as adequate if-
+
+1.   (a) it is, or will be, overcrowded; or
+2.   (b) it contravenes public health regulations.
+
+### English language requirement
+
+E-ECP.4.1. The applicant must provide specified evidence that they-
+
+1.   (a) are a national of a majority English speaking country listed in paragraph GEN.1.6.;
+2.   (b) have passed an English language test in speaking and listening at a minimum of level A1 of the Common European Framework of Reference for Languages with a provider approved by the Secretary of State;
+3.   (c) have an academic qualification which is either a Bachelor’s or Master’s degree or PhD awarded by an educational establishment in the UK; or, if awarded by an educational establishment outside the UK, is deemed by Ecctis to meet or exceed the recognised standard of a Bachelor’s or Master’s degree or PhD in the UK, and Ecctis has confirmed that the degree was taught or researched in English to level A1 of the Common European Framework of Reference for Languages or above; or
+4.   (d) are exempt from the English language requirement under paragraph E-ECP.4.2.
+
+E-ECP.4.2. The applicant is exempt from the English language requirement if at the date of application-
+
+1.   (a) the applicant is aged 65 or over;
+2.   (b) the applicant has a disability (physical or mental condition) which prevents the applicant from meeting the requirement; or
+3.   (c) there are exceptional circumstances which prevent the applicant from being able to meet the requirement prior to entry to the UK.
+
+### Section D-ECP: Decision on application for entry clearance as a partner
+
+D-ECP.1.1. Except where paragraph GEN.3.1.(2) or GEN.3.2.(3) of this Appendix applies, an applicant who meets the requirements for entry clearance as a partner (other than as a fiancé(e) or proposed civil partner) will be granted entry clearance for an initial period not exceeding 33 months, and subject to a condition of no recourse to public funds, and they will be eligible to apply for settlement after a continuous period of at least 60 months in the UK with leave to enter granted on the basis of such entry clearance or with limited leave to remain as a partner granted under paragraph D-LTRP.1.1. (excluding in all cases any period of leave to enter or limited leave to remain as a fiancé(e) or proposed civil partner); or, where the applicant is a fiancé(e) or proposed civil partner, the applicant will be granted entry clearance for a period not exceeding 6 months, and subject to a prohibition on employment and a condition of no recourse to public funds.
+
+D-ECP.1.2. Unless D-ECP.1.2A. applies, where paragraph GEN.3.1.(2) or GEN.3.2.(3) of this Appendix applies, an applicant who meets the requirements for entry clearance as a partner (other than as a fiancé(e) or proposed civil partner) will be granted entry clearance for an initial period not exceeding 33 months, and subject to a condition of no recourse to public funds unless the decision-maker considers, with reference to paragraph GEN.1.11A., that the applicant should not be subject to such a condition, and they will be eligible to apply for settlement after a continuous period of at least 120 months in the UK with leave to enter granted on the basis of such entry clearance or of entry clearance granted under paragraph D-ECP.1.1. or with limited leave to remain as a partner granted under paragraph D-LTRP.1.1. or D-LTRP.1.2. (excluding in all cases any period of leave to enter or limited leave to remain as a fiancé(e) or proposed civil partner); or, where the applicant is a fiancé(e) or proposed civil partner, the applicant will be granted entry clearance for a period not exceeding 6 months, and subject to a prohibition on employment and a condition of no recourse to public funds.
+
+D-ECP.1.2A. Where paragraph GEN 3.2(3) applies but the applicant does not meet the suitability paragraphs SUI 2.1., SUI 2.3., SUI 4.1., SUI 5.1., in Part Suitability, the application on Appendix FM will be refused.
+
+D-ECP.1.3. If the applicant does not meet the requirements for entry clearance as a partner, the application will be refused.
+
+### Section R-LTRP: Requirements for limited leave to remain as a partner
+
+R-LTRP.1.1. The requirements to be met for limited leave to remain as a partner are-
+
+1.   (a) the applicant and their partner must be in the UK;
+2.   (b) the applicant must have made a valid application for limited or indefinite leave to remain as a partner; and either
+3.   (c) 
+    1.   (i) the applicant must not fall for refusal under Section S-LTR: Suitability leave to remain; and
+    2.   (ii) the applicant meets all of the requirements of Section E-LTRP: Eligibility for leave to remain as a partner; or
+
+4.   (d) 
+    1.   (i) the applicant must not fall for refusal under Section S-LTR: Suitability leave to remain; and
+    2.   (ii) the applicant meets the requirements of paragraphs E-LTRP.1.2-1.12. and E-LTRP.2.1-2.2.; and
+    3.   (iii) paragraph EX.1. applies.
+
+### Section S-LTR: Suitability-leave to remain
+
+S-LTR.1.1. The applicant must not fall for refusal under Part Suitability.
+
+S-LTR.1.2. DELETED.
+
+S-LTR.1.3. DELETED.
+
+S-LTR.1.4. DELETED.
+
+S-LTR.1.5. DELETED.
+
+S-LTR.1.6. DELETED.
+
+S-LTR.1.7. DELETED.
+
+S-LTR.1.8. DELETED.
+
+S-LTR.2.1. DELETED.
+
+S-LTR.2.2. DELETED.
+
+S-LTR.2.3. DELETED.
+
+S-LTR.2.4. DELETED.
+
+S-LTR.2.5. DELETED.
+
+S-LTR.3.1. DELETED.
+
+S-LTR.4.1. DELETED.
+
+S-LTR.4.2. DELETED.
+
+S-LTR.4.3. DELETED.
+
+S-LTR.4.4. DELETED.
+
+S-LTR.4.5. DELETED.
+
+### Section E-LTRP: Eligibility for limited leave to remain as a partner
+
+E-LTRP.1.1. To qualify for limited leave to remain as a partner all of the requirements of paragraphs E-LTRP.1.2. to 4.2. must be met.
+
+### Relationship requirements
+
+E-LTRP.1.2. The applicant’s partner must be-
+
+1.   (a) a British Citizen in the UK;
+2.   (b) present and settled in the UK;
+3.   (c) in the UK with protection status;
+4.   (d) in the UK with limited leave under Appendix EU, in accordance with paragraph GEN.1.3.(d); or
+5.   (e) in the UK with limited leave as a worker or business person under Appendix ECAA Extension of Stay, in accordance with paragraph GEN.1.3.(e); or
+6.   (f) in the UK with permission as a Stateless person.
+
+E-LTRP.1.3. The applicant must be aged 18 or over at the date of application.
+
+E-LTRP.1.4. The partner must be aged 18 or over at the date of application.
+
+E-LTRP.1.5. The applicant and their partner must not be within the prohibited degree of relationship.
+
+E-LTRP.1.6. The applicant and their partner must have met in person.
+
+E-LTRP.1.7. The relationship between the applicant and their partner must be genuine and subsisting.
+
+E-LTRP.1.8. If the applicant and partner are married or in a civil partnership it must be a valid marriage or civil partnership, as specified.
+
+E-LTRP.1.9. Any previous relationship of the applicant or their partner must have broken down permanently, unless it is a relationship which falls within paragraph 278(i) of these Rules.
+
+E-LTRP.1.10. The applicant and their partner must intend to live together permanently in the UK and, in any application for further leave to remain as a partner (except where the applicant is in the UK as a fiancé(e) or proposed civil partner) and in any application for indefinite leave to remain as a partner, the applicant must provide evidence that, since entry clearance as a partner was granted under paragraph D-ECP1.1. or since the last grant of limited leave to remain as a partner, the applicant and their partner have lived together in the UK or there is good reason, consistent with a continuing intention to live together permanently in the UK, for any period in which they have not done so.
+
+E-LTRP.1.11. If the applicant is in the UK with leave as a fiancé(e) or proposed civil partner and the marriage or civil partnership did not take place during that period of leave, there must be good reason why and evidence that it will take place within the next 6 months.
+
+E-LTRP.1.12. The applicant’s partner cannot be the applicant’s fiancé(e) or proposed civil partner, unless the applicant was granted entry clearance as that person’s fiancé(e) or proposed civil partner.
+
+### Immigration status requirements
+
+E-LTRP.2.1. The applicant must not be in the UK-
+
+1.   (a) as a visitor; or
+2.   (b) with valid leave granted for a period of 6 months or less, unless that leave is as a fiancé(e) or proposed civil partner, or was granted pending the outcome of family court or divorce proceedings
+
+E-LTRP.2.2. The applicant must not be in the UK –
+
+1.   (a) on immigration bail, unless: 
+    1.   (i) the Secretary of State is satisfied that the applicant arrived in the UK more than 6 months prior to the date of application; and
+    2.   (ii) paragraph EX.1. applies; or
+
+2.   (b) in breach of immigration laws (except that, where the Exceptions for overstayers section of Part Suitability applies, any current period of overstaying will be disregarded), unless paragraph EX.1. applies.
+
+### Financial requirements for an applicant who is making their first application on the partner route on or after 11 April 2024
+
+1.   E-LTRP.3.1. The applicant must provide specified evidence, from the sources listed in paragraph E-LTRP.3.2., of: 
+    1.   (a) a specified gross annual income of at least £29,000
+    2.   (b) specified savings of: 
+        1.   (i) £16,000; and
+        2.   (ii) additional savings of an amount equivalent to 2.5 times the amount which is the difference between the gross annual income from the sources listed in paragraph E-LTRP.3.2.(a)-(f) and the total amount required under paragraph E-LTRP.3.1.(a); or
+
+    3.   (c) the requirements in paragraph E-LTRP.3.3. being met, unless paragraph EX.1. applies.
+
+E-LTRP.3.2. When determining whether the financial requirement in paragraph E-LTRP.3.1. or E-LTRP.3.7. is met only the following sources may be taken into account-
+
+1.   (a) income of the partner from specified employment or self-employment;
+2.   (b) income of the applicant from specified employment or self-employment unless they are working illegally;
+3.   (c) specified pension income of the applicant and partner;
+4.   (d) any specified maternity allowance or bereavement benefit received by the applicant and partner in the UK or any specified payment relating to service in HM Forces received by the applicant or partner;
+5.   (e) other specified income of the applicant and partner;
+6.   (f) income from the sources at (b), (d) or (e) of a dependent child of the applicant or of the applicant’s partner under paragraph E-LTRP.3.1. or E-LTRP.3.7. who is aged 18 years or over; and
+7.   (g) specified savings of the applicant, partner and a dependent child of the applicant or of the applicant’s partner under paragraph E-LTRP.3.1. or E-LTRP.3.7. who is aged 18 years or over.
+
+E-LTRP.3.3. The requirements to meet this paragraph are-
+
+1.   (a) the applicant’s partner must be receiving one or more of the following: 
+    1.   (i) Disability Living Allowance; or
+    2.   (ii) Severe Disablement Allowance; or
+    3.   (iii) Industrial Injuries Disablement Benefit; or
+    4.   (iv) Attendance Allowance; or
+    5.   (v) Carer’s Allowance; or
+    6.   (vi) Personal Independence Payment; or
+    7.   (vii) Armed Forces Independence Payment or Guaranteed Income Payment under the Armed Forces Compensation Scheme; or
+    8.   (viii) Constant Attendance Allowance, Mobility Supplement or War Disablement Pension under the War Pensions Scheme; or
+    9.   (ix) Police Injury Pension; or
+    10.   (x) Child Disability Payment (Scotland); or
+    11.   (xi) Adult Disability Payment (Scotland); or
+    12.   (xii) Carer’s Support Payment (Scotland); or
+    13.   (xiii) Pension Age Disability Payment (Scotland); or
+    14.   (xiv) Scottish Adult Disability Living Allowance (Scotland); and
+
+2.   (b) the applicant must provide evidence that their partner is able to maintain and accommodate themselves, the applicant and any dependants adequately in the UK without recourse to public funds.
+
+E-LTRP.3.4. The applicant must provide evidence that there will be adequate accommodation, without recourse to public funds, for the family, including other family members who are not included in the application but who live in the same household, which the family own or occupy exclusively, unless paragraph EX.1. applies: accommodation will not be regarded as adequate if-
+
+1.   (a) it is, or will be, overcrowded; or
+2.   (b) it contravenes public health regulations.
+
+### Transitional financial requirements for an applicant who made their first application as a fiancé(e), proposed civil partner or as a partner before 11 April 2024 and who was granted permission as a fiancé(e), proposed civil partner or as a partner on the five-year route to settlement as a result of that application
+
+E-LTRP.3.5. A person who has permission as a partner on the five-year route to settlement, or as a fiancé(e) or proposed civil partner, at the date of application, must meet the transitional financial requirement at E-LTRP.3.7. if they made an application for entry clearance or permission to stay as a fiancé(e), proposed civil partner or partner under Appendix FM before 11 April 2024, which was successful.
+
+E-LTRP.3.6. To fall within E-LTRP.3.5. the applicant must be applying for permission to stay with the same partner for which they were last granted permission. Those applying for permission to stay with a new partner must meet the financial requirement at E-LTRP.3.1. to E-LTRP.3.4.
+
+1.   E-LTRP.3.7. The applicant must provide specified evidence, from the sources listed in paragraph E-LTRP.3.2., of: 
+    1.   (a) a specified gross annual income of at least: 
+        1.   (i) £18,600;
+        2.   (ii) an additional £3,800 for the first child; and
+        3.   (iii)an additional £2,400 for each additional child; alone or in combination with
+
+    2.   (b) specified savings of: 
+        1.   (i) £16,000; and
+        2.   (ii) additional savings of an amount equivalent to 2.5 times the amount which is the difference between the gross annual income from the sources listed in paragraph E-LTRP.3.2.(a)-(f) and the total amount required under paragraph E-LTRP.3.7.(a); or
+
+    3.   (c) the requirements in paragraph E-LTRP.3.3. being met, unless paragraph EX.1. applies.
+
+2.   In this paragraph “child” means a dependent child of the applicant or the applicant’s partner who is: 
+    1.   (a) under the age of 18 years, or who was under the age of 18 years when they were first granted entry under this route;
+    2.   (b) applying for entry clearance or leave to remain as a dependant of the applicant or the applicant’s partner, or is in the UK with leave as their dependant;
+    3.   (c) not a British Citizen, settled in the UK, or in the UK with valid limited leave to enter or remain granted under paragraph EU3 or EU3A of Appendix EU to these Rules; and
+    4.   (d) not an EEA national with a right to be admitted to or reside in the UK under the Immigration (European Economic Area) Regulations 2016.
+
+E-LTRP.3.8. Where the financial requirement at E-LTRP.3.7. exceeds £29,000 due to the number of children in the family, the applicant will only need to provide evidence of a gross annual income of £29,000.
+
+E-LTRP.3.9. The applicant must meet the accommodation requirement at E-LTRP.3.4.
+
+### English language requirement
+
+E-LTRP.4.1. If the applicant has not met the requirement in a previous application for entry clearance or leave to remain as a partner or parent, the applicant must provide specified evidence that they-
+
+1.   (a) are a national of a majority English speaking country listed in paragraph GEN.1.6.;
+2.   (b) have passed an English language test in speaking and listening at a minimum of level A1 of the Common European Framework of Reference for Languages with a provider approved by the Secretary of State;
+3.   (c) have an academic qualification which is either a Bachelor’s or Master’s degree or PhD awarded by an educational establishment in the UK; or, if awarded by an educational establishment outside the UK, is deemed by Ecctis to meet or exceed the recognised standard of a Bachelor’s or Master’s degree or PhD in the UK, and Ecctis has confirmed that the degree was taught or researched in English to level A1 of the Common European Framework of Reference for Languages or above; or
+4.   (d) are exempt from the English language requirement under paragraph E-LTRP.4.2.;
+5.   unless paragraph EX.1. applies.
+
+E-LTRP.4.1A. Where the applicant:
+
+1.   (i) in a previous application for entry clearance or leave to remain as a partner or parent, met the English language requirement in paragraph E-ECP.4.1.(b), E-LTRP.4.1.(b), E-ECPT.4.1.(b) or E-LTRPT.5.1.(b) on the basis that they had passed an English language test in speaking and listening at level A1 of the Common European Framework of Reference for Languages;
+2.   (ii) was granted entry clearance or leave to remain as a partner or parent; and
+3.   (iii) now seeks further leave to remain as a partner after 30 months in the UK with leave as a partner; then, the applicant must provide specified evidence that they: 
+    1.   (a) are a national of a majority English speaking country listed in paragraph GEN.1.6.;
+    2.   (b) have passed an English language test in speaking and listening at a minimum of level A2 of the Common European Framework of Reference for Languages with a provider approved by the Secretary of State;
+    3.   (c) have an academic qualification which is either a Bachelor‟s or Master‟s degree or PhD awarded by an educational establishment in the UK; or, if awarded by an educational establishment outside the UK, is deemed by Ecctis to meet or exceed the recognised standard of a Bachelor‟s or Master‟s degree or PhD in the UK, and Ecctis has confirmed that the degree was taught or researched in English to level A2 of the Common European Framework of Reference for Languages or above; or
+    4.   (d) are exempt from the English language requirement under paragraph E-LTRP.4.2.;
+
+4.   unless paragraph EX.1. applies.
+
+E-LTRP.4.2. The applicant is exempt from the English language requirement in paragraph E-LTRP.4.1. or E-LTRP.4.1A. if at the date of application-
+
+1.   (a) the applicant is aged 65 or over;
+2.   (b) the applicant has a disability (physical or mental condition) which prevents the applicant from meeting the requirement; or
+3.   (c) there are exceptional circumstances which prevent the applicant from being able to meet the requirement.
+
+### Section D-LTRP: Decision on application for limited leave to remain as a partner
+
+D-LTRP.1.1. If the applicant meets the requirements in paragraph R-LTRP.1.1.(a) to (c) for limited leave to remain as a partner the applicant will be granted limited leave to remain for a period not exceeding 30 months, and subject to a condition of no recourse to public funds, and they will be eligible to apply for settlement after a continuous period of at least 60 months with such leave or in the UK with leave to enter granted on the basis of entry clearance granted under paragraph D-ECP.1.1. (excluding in all cases any period of leave to enter or limited leave to remain as a fiancé(e) or proposed civil partner); or, if paragraph E-LTRP.1.11. applies, the applicant will be granted limited leave for a period not exceeding 6 months and subject to a condition of no recourse to public funds and a prohibition on employment.
+
+D-LTRP.1.2. Unless D-LTRP.1.2A. applies, if the applicant meets the requirements in paragraph R-LTRP.1.1.(a), (b) and (d) for limited leave to remain as a partner, or paragraph GEN.3.1.(2) or GEN.3.2.(3) applies to an applicant for leave to remain as a partner, the applicant will be granted leave to remain for a period not exceeding 30 months and subject to a condition of no recourse to public funds unless the decision-maker considers, with reference to paragraph GEN.1.11A., that the applicant should not be subject to such a condition, and they will be eligible to apply for settlement after a continuous period of at least 120 months in the UK with such leave, with limited leave to remain as a partner granted under paragraph D-LTRP.1.1., or in the UK with leave to enter granted on the basis of entry clearance as a partner granted under paragraph D-ECP1.1. or D-ECP.1.2. (excluding in all cases any period of leave to enter or limited leave to remain as a fiancé(e) or proposed civil partner); or, if paragraph E-LTRP.1.11. applies, the applicant will be granted limited leave for a period not exceeding 6 months and subject to a condition of no recourse to public funds and a prohibition on employment.
+
+D-LTRP.1.2A. Where paragraph GEN 3.2.(3) applies but the applicant does not meet the suitability paragraphs SUI 2.1., SUI 2.3., SUI 4.1., SUI 5.1., in Part Suitability, the application on Appendix FM will be refused.
+
+D-LTRP.1.3. If the applicant does not meet the requirements for limited leave to remain as a partner the application will be refused.
+
+### Section R-ILRP: Requirements for indefinite leave to remain (settlement) as a partner
+
+R-ILRP.1.1. The requirements to be met for indefinite leave to remain as a partner are that-
+
+1.   (a) the applicant and their partner must be in the UK;
+2.   (b) the applicant must have made a valid application for indefinite leave to remain as a partner;
+3.   (c) the applicant must not fall for refusal under Section S-ILR: Suitability for indefinite leave to remain; and
+4.   (d) deleted
+5.   (e) the applicant must meet all of the requirements of Section E-ILRP: Eligibility for indefinite leave to remain as a partner.
+
+### Section S-ILR: Suitability for indefinite leave to remain
+
+S-ILR.1.1. The applicant must not fall for refusal under Part Suitability.
+
+S-ILR.1.2. DELETED.
+
+S-ILR.1.3. DELETED.
+
+S-ILR.1.4. DELETED.
+
+S-ILR.1.5. DELETED.
+
+S-ILR.1.6. DELETED.
+
+S-ILR.1.7. DELETED.
+
+S-ILR.1.8. DELETED.
+
+S-ILR.1.9. DELETED.
+
+S-ILR.1.10. DELETED.
+
+S-ILR.2.1. DELETED.
+
+S-ILR.2.2. DELETED.
+
+S-ILR.2.3. DELETED.
+
+S-ILR.2.4. DELETED.
+
+S-ILR.3.1. DELETED.
+
+S-ILR.4.1. DELETED.
+
+S-ILR.4.2. DELETED.
+
+S-ILR.4.3. DELETED.
+
+S-ILR.4.4. DELETED.
+
+S-ILR.4.5. DELETED.
+
+### Section E-ILRP: Eligibility for indefinite leave to remain as a partner
+
+E-ILRP.1.1. To meet the eligibility requirements for indefinite leave to remain as a partner after a 5 year qualifying period all of the requirements of paragraphs E-ILRP.1.2. to 1.6. must be met.
+
+E-ILRP.1.2. The applicant must be in the UK with valid leave to remain as a partner under this Appendix (except that, where the Exceptions for overstayers section of Part Suitability applies, any current period of overstaying will be disregarded).
+
+E-ILRP.1.3. (1) Subject to subparagraph (2), the applicant must, at the date of application, have completed a period of continuous residence in the UK of at least 5 years (60 months) with the following:
+
+1.   (a) leave to enter granted on the basis of entry clearance as a partner granted under paragraph D-ECP.1.1; or
+2.   (b) limited leave to remain as a partner granted under paragraph D-LTRP.1.1; or
+3.   (c) a combination of leave under (a) and (b).
+
+(1A) In respect of an application falling within subparagraph (1) above, the applicant must meet all the requirements of Section E-LTRP: Eligibility for leave to remain as a partner (except that paragraph E-LTRP.1.2. cannot be met on the basis set out in sub-paragraph (c), (d), (e) or (f) of that paragraph, and in applying paragraph E-LTRP.3.1.(b)(ii) or E-LTRP.3.7.(b)(ii) disregard the words “2.5 times”).
+
+(2) In calculating periods of leave for the purposes of subparagraph (1) above, any period of leave to enter or leave to remain as a fiancé(e) or proposed civil partner will be disregarded.
+
+E-ILRP.1.4. In calculating the periods under paragraph E-ILRP.1.3. only the periods when the applicant’s partner is the same person as the applicant’s partner for the previous period of limited leave shall be taken into account.
+
+E-ILRP.1.5. In calculating the periods under paragraph E-ILRP.1.3. the words “in the UK” in that paragraph shall not apply to any period(s) to which the evidence in paragraph 26A of Appendix FM-SE applies.
+
+E-ILRP.1.5A. In calculating the periods under paragraph E-ILRP.1.3., any current period of overstaying will be disregarded where the Exceptions for overstayers section of Part Suitability applies. Any previous period of overstaying between periods of leave will also be disregarded where: the further application was made before 24 November 2016 and within 28 days of the expiry of leave; or the further application was made on or after 24 November 2016 and the Exceptions for overstayers section of Part Suitability applied.
+
+E-ILRP.1.6. The applicant must have demonstrated sufficient knowledge of the English language and sufficient knowledge about life in the United Kingdom in accordance with the requirements of Appendix KoLL of these Rules.
+
+### Section D-ILRP: Decision on application for indefinite leave to remain as a partner
+
+D-ILRP.1.1. If the applicant meets all of the requirements for indefinite leave to remain as a partner the applicant will be granted indefinite leave to remain.
+
+D-ILRP.1.2. If the applicant does not meet the requirements for indefinite leave to remain as a partner as they have not demonstrated sufficient knowledge of the English language or about life in the United Kingdom in accordance with Appendix KoLL, subject to compliance with any requirement notified under paragraph GEN.1.15.(b), the applicant will be granted further limited leave to remain as a partner for a period not exceeding 30 months, and subject to a condition of no recourse to public funds.
+
+D-ILRP.1.3. If the applicant does not meet all the eligibility requirements for indefinite leave to remain as a partner, and does not qualify for further limited leave to remain as a partner under paragraph DILRP. 1.2. or D-LTRP.1.2A., the application will be refused, unless the applicant meets the requirements in paragraph R-LTRP.1.1.(a), (b) and (d) for limited leave to remain as a partner. Where they do, and subject to compliance with any requirement notified under paragraph GEN.1.15.(b), the applicant will be granted further limited leave to remain as a partner for a period not exceeding 30 months under paragraph D-LTRP.1.2. and subject to a condition of no recourse to public funds unless the Secretary of State considers that the person should not be subject to such a condition.
+
+Section EX: Exceptions to certain eligibility requirements for leave to remain as a partner or parent, Show
+-----------------------------------------------------------------------------------------------------------
+
+EX.1. This paragraph applies if
+
+1.   (a) 
+    1.   (i) the applicant has a genuine and subsisting parental relationship with a child who- 
+        1.   (aa) is under the age of 18 years, or was under the age of 18 years when the applicant was first granted leave on the basis that this paragraph applied;
+        2.   (bb) is in the UK;
+        3.   (cc) is a British Citizen or has lived in the UK continuously for at least the 7 years immediately preceding the date of application ;and
+
+    2.   (ii) taking into account their best interests as a primary consideration, it would not be reasonable to expect the child to leave the UK; or
+
+2.   (b) the applicant has a genuine and subsisting relationship with a partner who is in the UK and is a British Citizen, settled in the UK, or in the UK with protection status, in the UK with limited leave under Appendix EU in accordance with paragraph GEN.1.3.(d), or in the UK with limited leave as a worker or business person under Appendix ECAA Extension of Stay in accordance with paragraph GEN.1.3.(e), or in the UK with permission as a Stateless person, and there are insurmountable obstacles to family life with that partner continuing outside the UK.
+
+EX.2. For the purposes of paragraph EX.1.(b) “insurmountable obstacles” means the very significant difficulties which would be faced by the applicant or their partner in continuing their family life together outside the UK and which could not be overcome or would entail very serious hardship for the applicant or their partner.
+
+Bereaved partner, Show
+----------------------
+
+### Section BPILR: Indefinite leave to remain (settlement) as a bereaved partner
+
+BPILR.1.1. DELETED
+
+### Section E-BPILR: Eligibility for indefinite leave to remain as a bereaved partner
+
+E-BPILR.1.1. DELETED
+
+E-BPILR.1.2. DELETED
+
+E-BPILR.1.3. DELETED
+
+E-BPILR.1.4. DELETED
+
+### Section D-BPILR: Decision on application for indefinite leave to remain as a bereaved partner
+
+D-BPILR.1.1. DELETED
+
+D-BPILR.1.2. DELETED
+
+D-BPILR.1.3. DELETED
+
+Victim of domestic abuse, Show
+------------------------------
+
+### Section DVILR: Indefinite leave to remain (settlement) as a victim of domestic abuse
+
+DVILR.1.1. DELETED
+
+### Section E-DVILR: Eligibility for indefinite leave to remain as a victim of domestic abuse
+
+E-DVILR.1.1. DELETED
+
+E-DVILR.1.2. DELETED
+
+E-DVILR.1.3. DELETED
+
+#### Section D-DVILR: Decision on application for indefinite leave to remain as a victim of domestic abuse
+
+D-DVILR.1.1. DELETED
+
+D-DVILR.1.2. DELETED
+
+D-DVILR.1.3. DELETED
+
+Family life as a child of a person with limited leave as a partner, parent or person with protection status in the UK, Show
+---------------------------------------------------------------------------------------------------------------------------
+
+This route is for a child whose parent is applying for entry clearance or leave, or who has limited leave, as a partner or parent under this Appendix or has protection status in the UK. For further provision on a child seeking to enter or remain in the UK for the purpose of their family life see Part 8 of these Rules.
+
+### Section EC-C: Entry clearance as a child
+
+EC-C.1.1. The requirements to be met for entry clearance as a child are that-
+
+1.   (a) the applicant must be outside the UK;
+2.   (b) the applicant must have made a valid application for entry clearance as a child;
+3.   (c) the applicant must not fall for refusal under any of the grounds in Section S-EC: Suitability for entry clearance; and
+4.   (d) the applicant must meet all of the requirements of Section E-ECC: Eligibility for entry clearance as a child.
+
+### Section E-ECC: Eligibility for entry clearance as a child
+
+E-ECC.1.1. To meet the eligibility requirements for entry clearance as a child all of the requirements of paragraphs E-ECC.A1.1. to 2.7. must be met.
+
+E-ECC.A1.1. The applicant must provide a passport or other document which satisfactorily establishes their identity and nationality.
+
+### Relationship requirements
+
+E-ECC.1.2. The applicant must be under the age of 18 at the date of application.
+
+E-ECC.1.3. The applicant must not be married or in a civil partnership.
+
+E-ECC.1.4. The applicant must not have formed an independent family unit.
+
+E-ECC.1.5. The applicant must not be leading an independent life.
+
+E-ECC.1.6. One of the applicant’s parents must be in the UK with limited leave to enter or remain, or be being granted, or have been granted, entry clearance, as a partner or a parent under this Appendix or have protection status in the UK (referred to in this section as the “applicant’s parent”), and
+
+1.   (a) the applicant’s parent’s partner under Appendix FM is also a parent of the applicant; or
+2.   (b) the applicant’s parent has had and continues to have sole responsibility for the child’s upbringing; or
+3.   (c) there are serious and compelling family or other considerations which make exclusion of the child undesirable and suitable arrangements have been made for the child’s care.
+
+### Financial requirement for applicants where the transitional requirements at E-ECC.2.5 to E-ECC.2.7. do not apply
+
+1.   E-ECC.2.1. Where a parent of the applicant has, or is applying or has applied for, entry clearance or limited leave to enter or remain as a partner under this Appendix or has protection status in the 4 UK, the applicant must provide specified evidence, from the sources listed in paragraph E-ECC.2.2., of: 
+    1.   (a) a specified gross annual income of at least £29,000
+    2.   (b) specified savings of: 
+        1.   (i) £16,000; and
+        2.   (ii) additional savings of an amount equivalent to 2.5 times the amount which is the difference between the gross annual income from the sources listed in paragraph E-ECC.2.2.(a)- (f) and the total amount required under paragraph E-ECC.2.1.(a); or
+
+    3.   (c) the requirements in paragraph E-ECC.2.3. being met.
+
+E-ECC.2.2. When determining whether the financial requirement in paragraph E-ECC.2.1. or E-ECC.2.5. is met only the following sources may be taken into account-
+
+1.   (a) income of the parent with protection status in the UK or the applicant’s parent’s partner from specified employment or self-employment, which, in respect of an applicant’s parent’s partner returning to the UK with the applicant, can include specified employment or self-employment overseas and in the UK;
+2.   (b) income of the applicant’s parent from specified employment or self employment if they are in the UK unless they are working illegally;
+3.   (c) specified pension income of the applicant’s parent and that parent’s partner;
+4.   (d) any specified maternity allowance or bereavement benefit received by the applicant’s parent and that parent’s partner in the UK or any specified payment relating to service in HM Forces received by the applicant’s parent and that parent’s partner;
+5.   (e) other specified income of the applicant’s parent and that parent’s partner;
+6.   (f) income from the sources at (b), (d) or (e) of a dependent child of the applicant’s parent under paragraph E-ECC.2.1. or E-ECC.2.5. who is aged 18 years or over; and
+7.   (g) specified savings of the applicant’s parent, that parent’s partner and a dependent child of the applicant’s parent under paragraph E-ECC.2.1. or E-ECC.2.5. who is aged 18 years or over.
+
+E-ECC.2.3. The requirements to be met under this paragraph are-
+
+1.   (a) the applicant’s parent’s partner or the applicant’s parent who has protection status in the UK must be receiving one or more of the following: 
+    1.   (i) Disability Living Allowance; or
+    2.   (ii) Severe Disablement Allowance; or
+    3.   (iii) Industrial Injuries Disablement Benefit; or
+    4.   (iv) Attendance Allowance; or
+    5.   (v) Carer’s Allowance; or
+    6.   (vi) Personal Independence Payment; or
+    7.   (vii) Armed Forces Independence Payment or Guaranteed Income Payment under the Armed Forces Compensation Scheme; or
+    8.   (viii) Constant Attendance Allowance, Mobility Supplement or War Disablement Pension under the War Pensions Scheme; or
+    9.   (ix) Police Injury Pension; or
+    10.   (x) Child Disability Payment (Scotland); or
+    11.   (xi) Adult Disability Payment (Scotland); or
+    12.   (xii) Carer’s Support Payment (Scotland); or
+    13.   (xiii) Pension Age Disability Payment (Scotland); or
+    14.   (xiv) Scottish Adult Disability Living Allowance (Scotland); and
+
+2.   (b) the applicant must provide evidence that their parent’s partner or parent with protection status in the UK is able to maintain and accommodate themselves, the applicant’s parent, the applicant and any dependants adequately in the UK without recourse to public funds.
+
+E-ECC.2.3A. Where a parent of the applicant has, or is applying or has applied for, entry clearance or limited leave to enter or remain as a parent under this Appendix, the applicant must provide evidence that that parent is able to maintain and accommodate themselves, the applicant and any other dependants adequately in the UK without recourse to public funds.
+
+E-ECC.2.4. The applicant must provide evidence that there will be adequate accommodation, without recourse to public funds, for the family, including other family members who are not included in the application but who live in the same household, which the family own or occupy exclusively: accommodation will not be regarded as adequate if-
+
+1.   (a) it is, or will be, overcrowded; or
+2.   (b) it contravenes public health regulations.
+
+### Transitional financial requirements
+
+1.   E-ECC.2.5. Where a parent of the applicant has, or is applying or has applied for, entry clearance or limited leave to enter or limited leave to remain as a partner under this Appendix, and that parent meets the requirements of E-LTRP.3.5. the applicant must provide specified evidence, from the sources listed in paragraph E-ECC.2.2., of: 
+    1.   (a) a specified gross annual income of at least 
+        1.   (i) £18,600;
+        2.   (ii) an additional £3,800 for the first child; and
+        3.   (iii)an additional £2,400 for each additional child; alone or in combination with
+
+    2.   (b) specified savings of 
+        1.   (i) £16,000; and
+        2.   (ii) additional savings of an amount equivalent to 2.5 times the amount which is the difference between the gross annual income from the sources listed in paragraph E-ECC.2.2.(a)- (f) and the total amount required under paragraph E-ECC.2.5.(a); or
+
+    3.   (c) the requirements in paragraph E-ECC.2.3. being met.
+
+2.   In this paragraph “child” means the applicant and any other dependent child of the applicant’s parent or the applicant’s parent’s partner who is: 
+    1.   (a) under the age of 18 years, or who was under the age of 18 years when they were first granted entry under this route;
+    2.   (b) applying for entry clearance as a dependant of the applicant’s parent or of the applicant’s parent’s partner, or is in the UK with leave as their dependant;
+    3.   (c) not a British Citizen, settled in the UK, or in the UK with valid limited leave to enter or remain granted under paragraph EU3 or EU3A of Appendix EU to these Rules; and
+    4.   (d) not an EEA national with a right to be admitted to or reside in the UK under the Immigration (European Economic Area) Regulations 2016.
+
+E-ECC.2.6. Where the financial requirement at E-ECC.2.5. exceeds £29,000 due to the number of children in the family, the applicant will only need to provide evidence of a gross annual income of £29,000.
+
+E-ECC.2.7. The applicant must meet the accommodation requirement at E-ECC.2.4.
+
+### Section D-ECC: Decision on application for entry clearance as a child
+
+D-ECC.1.1. If the applicant meets the requirements for entry clearance as a child, they will be granted entry clearance of a duration which will expire at the same time as the leave granted to the applicant’s parent under Appendix FM or the parent with protection status in the UK (where their other parent does not have, and is not being granted, leave under this Appendix). They will be subject to the same conditions in respect of recourse to public funds as that parent.
+
+D-ECC.1.1A. Where paragraph GEN 3.2(3) applies but the applicant does not meet the suitability paragraphs SUI 2.1., SUI 2.3., SUI 4.1., SUI 5.1. in Part Suitability, the application on Appendix FM will be refused.
+
+D-ECC.1.2. If the applicant does not meet the requirements for entry clearance as a child the application will be refused.
+
+### Section R-LTRC: Requirements for leave to remain as a child
+
+R-LTRC.1.1. The requirements to be met for leave to remain as a child are that-
+
+1.   (a) the applicant must be in the UK;
+2.   (b) the applicant must have made a valid application for leave to remain as a child; and either
+3.   (c) 
+    1.   (i) the applicant must not fall for refusal under any of the grounds in Section S- LTR: Suitability-leave to remain; and
+    2.   (ii) the applicant meets all of the requirements of Section E-LTRC: Eligibility for leave to remain as a child; and
+    3.   (iii) unless the applicant’s parent has protection status in the UK a parent of the applicant has been or is at the same time being granted leave to remain under paragraph D-LTRP.1.1. or D-LTRPT.1.1. or indefinite leave to remain under this Appendix; or
+
+4.   (d) 
+    1.   (i) the applicant must not fall for refusal under any of the grounds in Section S- LTR: Suitability-leave to remain; and
+    2.   (ii) the applicant meets the requirements of paragraphs E-LTRC.1.2.-1.6.; and
+    3.   (iii) “unless the applicant’s parent has protection status, a parent of the applicant has been or is at the same time being granted leave to remain under paragraph D-LTRP.1.2., D-ILRP.1.2., D-LTRPT.1.2. or D-ILRPT.1.2. or indefinite leave to remain under this Appendix.
+
+### Section E-LTRC: Eligibility for leave to remain as a child
+
+E-LTRC.1.1. To qualify for limited leave to remain as a child all of the requirements of paragraphs E-LTRC.1.2. to 2.7. must be met (except where paragraph R-LTRC.1.1.(d)(ii) applies).
+
+### Relationship requirements
+
+E-LTRC.1.2. The applicant must be under the age of 18 at the date of application or when first granted leave as a child under this route.
+
+E-LTRC.1.3. The applicant must not be married or in a civil partnership.
+
+E-LTRC.1.4. The applicant must not have formed an independent family unit.
+
+E-LTRC.1.5. The applicant must not be leading an independent life.
+
+E-LTRC.1.6. One of the applicant’s parents (referred to in this section as the “applicant’s parent”) must be in the UK and have leave to enter or remain or indefinite leave to remain, or is at the same time being granted leave to remain or indefinite leave to remain, under this Appendix, or must have protection status in the UK and
+
+1.   (a) the applicant’s parent’s partner under Appendix FM is also a parent of the applicant; or
+2.   (b) the applicant’s parent has had and continues to have sole responsibility for the child’s upbringing or the applicant normally lives with this parent and not their other parent; or
+3.   (c) there are serious and compelling family or other considerations which make exclusion of the child undesirable and suitable arrangements have been made for the child’s care.
+
+### Financial requirements for applicants where the transitional requirements at E-LTRC.2.5. to E-LTRC.2.7. do not apply
+
+1.   E-LTRC.2.1. Where a parent of the applicant has, or is applying or has applied for, limited leave to remain as a partner under this Appendix or has protection status in the UK, the applicant must provide specified evidence, from the sources listed in paragraph E-LTRC.2.2., of: 
+    1.   (a) a specified gross annual income of at least £29,000
+    2.   (b) specified savings of: 
+        1.   (i) £16,000; and
+        2.   (ii) additional savings of an amount equivalent to 2.5 times (or if the parent is applying for indefinite leave to remain 1 times) the amount which is the difference between the gross annual income from the sources listed in paragraph E-LTRC.2.2.(a)-(f) and the total amount required under paragraph E-LTRC.2.1.(a); or
+
+    3.   (c) the requirements in paragraph E-LTRC.2.3. being met.
+
+E-LTRC.2.2. When determining whether the financial requirement in paragraph E-LTRC.2.1. or E-LTRC.2.5. is met only the following sources may be taken into account-
+
+1.   (a) income of the applicant’s parents with protection status in the UK or the applicant’s parent’s partner from specified employment or self-employment;
+2.   (b) income of the applicant’s parent from specified employment or self employment;
+3.   (c) specified pension income of the applicant’s parent and that parent’s partner;
+4.   (d) any specified maternity allowance or bereavement benefit received by the applicant’s parent and that parent’s partner in the UK or any specified payment relating to service in HM Forces received by the applicant’s parent and that parent’s partner;
+5.   (e) other specified income of the applicant’s parent and that parent’s partner;
+6.   (f) income from the sources at (b), (d) or (e) of a dependent child of the applicant’s parent under paragraph E-LTRC.2.1. or E-LTRC.2.5. who is aged 18 years or over; and
+7.   (g) specified savings of the applicant’s parent, that parent’s partner and a dependent child of the applicant’s parent under paragraph E-ECC.2.1. who is aged 18 years or over.
+
+E-LTRC.2.3. The requirements to be met under this paragraph are-
+
+1.   (a) the applicant’s parent’s partner or the applicant’s parent who has protection status in the UK must be receiving one or more of the following: 
+    1.   (i) Disability Living Allowance; or
+    2.   (ii) Severe Disablement Allowance; or
+    3.   (iii) Industrial Injuries Disablement Benefit; or
+    4.   (iv) Attendance Allowance; or
+    5.   (v) Carer’s Allowance; or
+    6.   (vi) Personal Independence Payment; or
+    7.   (vii) Armed Forces Independence Payment or Guaranteed Income Payment under the Armed Forces Compensation Scheme; or
+    8.   (viii) Constant Attendance Allowance, Mobility Supplement or War Disablement Pension under the War Pensions Scheme; or
+    9.   (ix) Police Injury Pension; or
+    10.   (x) Child Disability Payment Scotland); or
+    11.   (xi) Adult Disability Payment (Scotland); or
+    12.   (xii) Carer’s Support Payment (Scotland); or
+    13.   (xiii) Pension Age Disability Payment (Scotland); or
+    14.   (xiv) Scottish Adult Disability Living Allowance (Scotland); and
+
+2.   (b) the applicant must provide evidence that their parent’s partner or their parent with protection status in the UK is able to maintain and accommodate themselves, the applicant’s parent, the applicant and any dependants adequately in the UK without recourse to public funds.
+
+E-LTRC.2.3A. Where a parent of the applicant has, or is applying or has applied for, limited leave to remain as a parent under this Appendix, the applicant must provide evidence that that parent is able to maintain and accommodate themselves, the applicant and any other dependants adequately in the UK without recourse to public funds.
+
+E-LTRC.2.4. The applicant must provide evidence that there will be adequate accommodation in the UK, without recourse to public funds, for the family, including other family members who are not included in the application but who live in the same household, which the family own or occupy exclusively: accommodation will not be regarded as adequate if-
+
+1.   (a) it is, or will be, overcrowded; or
+2.   (b) it contravenes public health regulations.
+
+### Transitional financial requirements
+
+1.   E-LTRC.2.5. Where a parent of the applicant has, or is applying or has applied for, entry clearance or leave to enter or limited leave to remain as a partner under this Appendix, and that parent meets the requirements of E-LTRP.3.5. the applicant must provide specified evidence, from the sources listed in paragraph E-LTRC.2.2., of: 
+    1.   (a) a specified gross annual income of at least: 
+        1.   (i) £18,600;
+        2.   (ii) an additional £3,800 for the first child; and
+        3.   (iii)an additional £2,400 for each additional child; alone or in combination with
+
+    2.   (b) specified savings of: 
+        1.   (i) £16,000; and
+        2.   (ii) additional savings of an amount equivalent to 2.5 times (or if the parent is applying for indefinite leave to remain 1 times) the amount which is the difference between the gross annual income from the sources listed in paragraph E-LTRC.2.2.(a)-(f) and the total amount required under paragraph E-LTRC.2.5.(a); or
+
+    3.   (c) the requirements in paragraph E-LTRC.2.3. being met.
+
+2.   In this paragraph “child” means the applicant and any other dependent child of the applicant’s parent or the applicant’s parent’s partner who is: 
+    1.   (a) under the age of 18 years, or who was under the age of 18 years when they were first granted entry under this route;
+    2.   (b) applying for entry clearance as a dependant of the applicant’s parent or of the applicant’s parent’s partner, or is in the UK with leave as their dependant;
+    3.   (c) not a British Citizen, settled in the UK, or in the UK with valid limited leave to enter or remain granted under paragraph EU3 or EU3A of Appendix EU to these Rules; and
+    4.   (d) not an EEA national with a right to be admitted to or reside in the UK under the Immigration (European Economic Area) Regulations 2016.
+
+E-LTRC.2.6. Where the financial requirement at E-LTRC.2.5. exceeds £29,000 due to the number of children in the family, the applicant will only need to provide evidence of a gross annual income of £29,000.
+
+E-LTRC.2.7. The applicant must meet the accommodation requirement at E-LTRC.2.4.
+
+### Section D-LTRC: Decision on application for leave to remain as a child
+
+D-LTRC.1.1. If the applicant meets the requirements for leave to remain as a child the applicant will be granted leave to remain, either: 
+
+ (a) of a duration which will expire at the same time as the limited leave 5 granted to the applicant’s parent under Appendix FM or the parent with protection status in the UK (where their other parent does not have, and is not being granted, leave under this Appendix). They will be subject to the same conditions in respect of recourse to public funds as that parent; or
+
+ (b) 30 months, where a parent is settled but the child does not qualify for settlement, subject to the following conditions:
+
+1.   (i) no recourse to public funds unless the decision-maker considers, with reference to paragraph GEN.1.11A., that the applicant should not be subject to such a condition; and
+2.   (ii) study is permitted, subject to the ATAS condition in Appendix ATAS if the applicant is aged 18 or over.
+
+To qualify for indefinite leave to remain as a child of a person with indefinite leave to remain as a partner or parent, the applicant must meet the requirements of Appendix Settlement Family Life if applying as a dependent of a partner or parent who is applying under that Appendix, otherwise the applicant must meet the requirements of paragraph 298 of these rules.
+
+D-LTRC.1.1A. Where paragraph GEN 3.2(3) applies but the applicant does not meet the suitability paragraphs SUI 2.1., SUI 2.3., SUI 4.1., SUI 5.1. in Part Suitability, the application on Appendix FM will be refused.
+
+D-LTRC.1.2. If the applicant does not meet the requirements for leave to remain as a child the application will be refused.
+
+Family life as a parent of a child in the UK, Show
+--------------------------------------------------
+
+### Section EC-PT: Entry clearance as a parent of a child in the UK
+
+EC-PT.1.1. The requirements to be met for entry clearance as a parent are that-
+
+1.   (a) the applicant must be outside the UK;
+2.   (b) the applicant must have made a valid application for entry clearance as a parent;
+3.   (c) the applicant must not fall for refusal under any of the grounds in Section S-EC: Suitability–entry clearance; and
+4.   (d) the applicant must meet all of the requirements of Section E-ECPT: Eligibility for entry clearance as a parent.
+
+### Section E-ECPT: Eligibility for entry clearance as a parent
+
+E-ECPT.1.1. To meet the eligibility requirements for entry clearance as a parent all of the requirements in paragraphs E-ECPT.A1.1. to 4.2. must be met.
+
+E-ECPT.A1.1. The applicant must provide a passport or other document which satisfactorily establishes their identity and nationality.
+
+### Relationship requirements
+
+E-ECPT.2.1. The applicant must be aged 18 years or over.
+
+E-ECPT.2.2. The child of the applicant must be-
+
+1.   (a) under the age of 18 years at the date of application;
+2.   (b) living in the UK; and
+3.   (c) a British Citizen, settled in the UK, or in the UK with limited leave under Appendix EU in accordance with paragraph GEN.1.3.(d).
+
+E-ECPT.2.3. Either -
+
+1.   (a) the applicant must have sole parental responsibility for the child; or
+2.   (b) the parent or carer with whom the child normally lives must be- 
+    1.   (i) a British Citizen in the UK, settled in the UK, or in the UK with limited leave under Appendix EU in accordance with paragraph GEN.1.3.(d);
+    2.   (ii) not the partner of the applicant; and
+    3.   (iii) the applicant must not be eligible to apply for entry clearance as a partner under this Appendix.
+
+E -ECPT.2.4.
+
+1.   (a) The applicant must provide evidence that they have either- 
+    1.   (i) sole parental responsibility for the child; or
+    2.   (ii) direct access (in person) to the child, as agreed with the parent or carer with whom the child normally lives or as ordered by a court in the UK; and
+
+2.   (b) The applicant must provide evidence that they are taking, and intend to continue to take, an active role in the child’s upbringing.
+
+### Financial requirements
+
+E-ECPT.3.1. The applicant must provide evidence that they will be able to adequately maintain and accommodate themselves and any dependants in the UK without recourse to public funds
+
+E-ECPT.3.2. The applicant must provide evidence that there will be adequate accommodation in the UK, without recourse to public funds, for the family, including other family members who are not included in the application but who live in the same household, which the family own or occupy exclusively: accommodation will not be regarded as adequate if-
+
+1.   (a) it is, or will be, overcrowded; or
+2.   (b) it contravenes public health regulations.
+
+### English language requirement
+
+E-ECPT.4.1. The applicant must provide specified evidence that they-
+
+1.   (a) are a national of a majority English speaking country listed in paragraph GEN.1.6.;
+2.   (b) have passed an English language test in speaking and listening at a minimum of level A1 of the Common European Framework of Reference for Languages with a provider approved by the Secretary of State;
+3.   (c) have an academic qualification which is either a Bachelor’s or Master’s degree or PhD awarded by an educational establishment in the UK; or, if awarded by an educational establishment outside the UK, is deemed by Ecctis to meet or exceed the recognised standard of a Bachelor’s or Master’s degree or PhD in the UK, and Ecctis has confirmed that the degree was taught or researched in English to level A1 of the Common European Framework of Reference for Languages or above; or
+4.   (d) are exempt from the English language requirement under paragraph E-ECPT.4.2.
+
+E-ECPT.4.2. The applicant is exempt from the English language requirement if at the date of application-
+
+1.   (a) the applicant is aged 65 or over;
+2.   (b) the applicant has a disability (physical or mental condition) which prevents the applicant from meeting the requirement; or
+3.   (c) there are exceptional circumstances which prevent the applicant from being able to meet the requirement prior to entry to the UK.
+
+### Section D-ECPT: Decision on application for entry clearance as a parent
+
+D-ECPT.1.1. If the applicant meets the requirements for entry clearance as a parent (except where paragraph GEN.3.2.(3) applies), the applicant will be granted entry clearance for an initial period not exceeding 33 months, and subject to a condition of no recourse to public funds, and they will be eligible to apply for settlement after a continuous period of at least 60 months in the UK with leave to enter granted on the basis of such entry clearance or with limited leave to remain as a parent granted under paragraph D-LTRPT.1.1.
+
+D-ECPT.1.2. Unless D-ECPT.1.2A. applies, if paragraph GEN.3.2.(3) applies to an applicant for entry clearance as a parent, the applicant will be granted entry clearance for an initial period not exceeding 33 months, and subject to a condition of no recourse to public funds unless the decision-maker considers, with reference to paragraph GEN.1.11A., that the person should not be subject to such a condition, and they will be eligible to apply for settlement after a continuous period of at least 120 months in the UK with leave to enter granted on the basis of such entry clearance or of entry clearance granted under paragraph D-ECPT.1.1. or with limited leave to remain as a parent granted under paragraph D-LTRPT.1.1. or D-LTRPT.1.2.
+
+D-ECPT.1.2A. Where paragraph GEN 3.2.(3) applies but the applicant does not meet the suitability paragraphs SUI 2.1., SUI 2.3., SUI 4.1., SUI 5.1., in Part Suitability, the application on Appendix FM will be refused.
+
+D-ECPT.1.3. If the applicant does not meet the requirements for entry clearance as a parent, the application will be refused.
+
+### Section R-LTRPT: Requirements for limited leave to remain as a parent
+
+R-LTRPT.1.1. The requirements to be met for limited leave to remain as a parent are-
+
+1.   (a) the applicant and the child must be in the UK;
+2.   (b) the applicant must have made a valid application for limited or indefinite leave to remain as a parent or partner; and either
+3.   (c) 
+    1.   (i) the applicant must not fall for refusal under Section S-LTR: Suitability leave to remain; and
+    2.   (ii) the applicant meets all of the requirements of Section ELTRPT: Eligibility for leave to remain as a parent, or
+
+4.   (d) 
+    1.   (i) the applicant must not fall for refusal under S-LTR: Suitability leave to remain; and
+    2.   (ii) the applicant meets the requirements of paragraphs E-LTRPT.2.2-2.4. and E-LTRPT.3.1-3.2.; and
+    3.   (iii) paragraph EX.1. applies.
+
+### Section E-LTRPT: Eligibility for limited leave to remain as a parent
+
+E-LTRPT.1.1. To qualify for limited leave to remain as a parent all of the requirements of paragraphs E-LTRPT.2.2. to 5.2. must be met.
+
+### Relationship requirements
+
+E-LTRPT.2.2. The child of the applicant must be-
+
+1.   (a) under the age of 18 years at the date of application, or where the child has turned 18 years of age since the applicant was first granted entry clearance or leave to remain as a parent under this Appendix, must not have formed an independent family unit or be leading an independent life;
+2.   (b) living in the UK; and
+3.   (c) a British Citizen, settled in the UK, or in the UK with limited leave under Appendix EU in accordance with paragraph GEN.1.3.(d); or
+4.   (d) has lived in the UK continuously for at least the 7 years immediately preceding the date of application and paragraph EX.1. applies.
+
+E-LTRPT.2.3. Either-
+
+1.   (a) the applicant must have sole parental responsibility for the child or the child normally lives with the applicant and not their other parent (who is a British Citizen, settled in the UK, or in the UK with limited leave under Appendix EU in accordance with paragraph GEN.1.3.(d)), and the applicant must not be eligible to apply for leave to remain as a partner under this Appendix; or
+2.   (b) the parent or carer with whom the child normally lives must be- 
+    1.   (i) a British Citizen in the UK, settled in the UK, or in the UK with limited leave under Appendix EU in accordance with paragraph GEN.1.3.(d).;
+    2.   (ii) not the partner of the applicant (which here includes a person who has been in a relationship with the applicant for less than two years prior to the date of application); and
+    3.   (iii) the applicant must not be eligible to apply for leave to remain as a partner under this Appendix.
+
+E-LTRPT.2.4.
+
+1.   (a) The applicant must provide evidence that they have either- 
+    1.   (i) sole parental responsibility for the child, or that the child normally lives with them; or
+    2.   (ii) direct access (in person) to the child, as agreed with the parent or carer with whom the child normally lives or as ordered by a court in the UK; and
+
+2.   (b) The applicant must provide evidence that they are taking, and intend to continue to take, an active role in the child’s upbringing.
+
+### Immigration status requirement
+
+E-LTRPT.3.1. The applicant must not be in the UK-
+
+1.   (a) as a visitor; or
+2.   (b) with valid leave granted for a period of 6 months or less, unless that leave was granted pending the outcome of family court or divorce proceedings;
+
+1.   E-LTRPT.3.2. The applicant must not be in the UK – 
+    1.   (a) on immigration bail, unless: 
+        1.   (i) the Secretary of State is satisfied that the applicant arrived in the UK more than 6 months prior to the date of application; and
+        2.   (ii) paragraph EX.1. applies; or
+
+    2.   (b) in breach of immigration laws (except that, where the Exceptions for overstayers section of Part Suitability applies, any current period of overstaying will be disregarded), unless paragraph EX.1. applies.
+
+### Financial requirements
+
+E-LTRPT.4.1. The applicant must provide evidence that they will be able to adequately maintain and accommodate themselves and any dependants in the UK without recourse to public funds, unless paragraph EX.1. applies.
+
+E-LTRPT.4.2. The applicant must provide evidence that there will be adequate accommodation in the UK, without recourse to public funds, for the family, including other family members who are not included in the application but who live in the same household, which the family own or occupy exclusively, unless paragraph EX.1. applies: accommodation will not be regarded as adequate if-
+
+1.   (a) it is, or will be, overcrowded; or
+2.   (b) it contravenes public health regulations.
+
+### English language requirement
+
+E-LTRPT.5.1. If the applicant has not met the requirement in a previous application for entry clearance or leave to remain as a parent or partner, the applicant must provide specified evidence that they-
+
+1.   (a) are a national of a majority English speaking country listed in paragraph GEN.1.6.;
+2.   (b) have passed an English language test in speaking and listening at a minimum of level A1 of the Common European Framework of Reference for Languages with a provider approved by the Secretary of State;
+3.   (c) have an academic qualification which is either a Bachelor’s or Master’s degree or PhD awarded by an educational establishment in the UK; or, if awarded by an educational establishment outside the UK, is deemed by Ecctis to meet or exceed the recognised standard of a Bachelor’s or Master’s degree or PhD in the UK, and Ecctis has confirmed that the degree was taught or researched in English to level A1 of the Common European Framework of Reference for Languages or above; or
+4.   (d) are exempt from the English language requirement under paragraph E-LTRPT.5.2.;
+5.   unless paragraph EX.1. applies.
+
+E-LTRPT.5.1A. Where the applicant:
+
+1.   (i) in a previous application for entry clearance or leave to remain as a parent or partner, met the English language requirement in paragraph E-ECP.4.1.(b), E-LTRP.4.1.(b), E-ECPT.4.1.(b) or E-LTRPT.5.1.(b) on the basis that they had passed an English language test in speaking and listening at level A1 of the Common European Framework of Reference for Languages; and
+2.   (ii) was granted entry clearance or leave to remain as a parent or partner; and
+3.   (iii) now seeks further leave to remain as a parent after 30 months in the UK with leave as a parent; then, the applicant must provide specified evidence that they: 
+    1.   (a) are a national of a majority English speaking country listed in paragraph GEN.1.6.;
+    2.   (b) have passed an English language test in speaking and listening at a minimum of level A2 of the Common European Framework of Reference for Languages with a provider approved by the Secretary of State;
+    3.   (c) have an academic qualification which is either a Bachelor’s or Master’s degree or PhD awarded by an educational establishment in the UK; or, if awarded by an educational establishment outside the UK, is deemed by Ecctis to be equivalent to the standard of a Bachelor’s or Master’s degree or PhD in the UK, and Ecctis has confirmed that the degree was taught or researched in English to level A2 of the Common European Framework of Reference for Languages or above; or
+    4.   (d) are exempt from the English language requirement under paragraph E-LTRPT.5.2.;
+
+4.   unless paragraph EX.1. applies.
+
+E-LTRPT.5.2. The applicant is exempt from the English language requirement in paragraph E-LTRPT.5.1. or E-LTRPT.5.1A. if at the date of application-
+
+1.   (a) the applicant is aged 65 or over;
+2.   (b) the applicant has a disability (physical or mental condition) which prevents the applicant from meeting the requirement; or
+3.   (c) there are exceptional circumstances which prevent the applicant from being able to meet the requirement.
+
+### Section D-LTRPT: Decision on application for limited leave to remain as a parent
+
+D-LTRPT.1.1. If the applicant meets the requirements in paragraph R-LTRPT.1.1.(a) to (c) for limited leave to remain as a parent the applicant will be granted limited leave to remain for a period not exceeding 30 months, and subject to a condition of no recourse to public funds, and they will be eligible to apply for settlement after a continuous period of at least 60 months with such leave or in the UK with leave to enter granted on the basis of entry clearance as a parent granted under paragraph D-ECPT.1.1.
+
+D-LTRPT.1.2. Unless D-LTRPT.1.2A. applies, if the applicant meets the requirements in paragraph R-LTRPT.1.1.(a), (b) and (d) for limited leave to remain as a parent, or paragraph GEN.3.2.(3) applies to an applicant for leave to remain as a parent, the applicant will be granted leave to remain for a period not exceeding 30 months and subject to a condition of no recourse to public funds unless the decision-maker considers, with reference to paragraph GEN.1.11A., that the applicant should not be subject to such a condition, and they will be eligible to apply for settlement after a continuous period of at least 120 months in the UK with such leave, with limited leave to remain as a parent granted under paragraph D-LTRPT.1.1., or in the UK with leave to enter granted on the basis of entry clearance as a parent granted under paragraph D-ECPT.1.1. or D-ECPT.1.2.
+
+D-LTRPT.1.2A. Where paragraph GEN 3.2(3) applies but the applicant does not meet the suitability paragraphs SUI 2.1., SUI 2.3., SUI 4.1., SUI 5.1. in Part Suitability, the application on Appendix FM will be refused.
+
+D-LTRPT.1.3. If the applicant does not meet the requirements for limited leave to remain as a parent the application will be refused.
+
+### Section R-ILRPT: Requirements for indefinite leave to remain (settlement) as a parent
+
+R-ILRPT.1.1. The requirements to be met for indefinite leave to remain as a parent after a 5 year qualifying period are that:
+
+1.   (a) the applicant must be in the UK; and
+2.   (b) the applicant must have made a valid application for indefinite leave to remain as a parent; and
+3.   (c) the applicant must not fall for refusal under any of the grounds in Section S-ILR: Suitability-indefinite leave to remain; and
+4.   (d) the applicant must meet all of the requirements of Section E-ILRPT: Eligibility for indefinite leave to remain as a parent.
+
+### Section E-ILRPT: Eligibility for indefinite leave to remain as a parent
+
+E-ILRPT.1.1. To meet the eligibility requirements for indefinite leave to remain as a parent all of the requirements of paragraphs E-ILRPT.1.2. to 1.5. must be met.
+
+E-ILRPT.1.2. The applicant must be in the UK with valid leave to remain as a parent under this Appendix (except that, where the Exceptions for overstayers section of Part Suitability applies, any current period of overstaying will be disregarded).
+
+E-ILRPT.1.3(1) The applicant must, at the date of application, have completed a continuous period of residence of at least 5 years (60 months) with the following:
+
+1.   (a) leave to enter granted on the basis of entry clearance as a parent granted under paragraph D-ECPT.1.1.; or
+2.   (b) limited leave to remain as a parent granted under paragraph D-LTRPT.1.1.; or
+3.   (c) a combination of leave under (a) and (b).
+
+(1A) In respect of an application falling within subparagraph (1) above, the applicant must meet all of the requirements of Section E-LTRPT: Eligibility for leave to remain as a parent (except that paragraph E-LTRPT.2.2.(c) cannot be met on the basis of a person being in the UK with limited leave under Appendix EU in accordance with paragraph GEN.1.3.(d)).
+
+(1B) DELETED
+
+E-ILRPT.1.4. DELETED.
+
+E-ILRPT.1.5. The applicant must have demonstrated sufficient knowledge of the English language and sufficient knowledge about life in the United Kingdom in accordance with the requirements of Appendix KoLL of these Rules.
+
+E-ILRPT.1.5A. In calculating the periods under paragraph E-ILRPT.1.3., any current period of overstaying will be disregarded where the Exceptions for overstayers section of Part Suitability applies. Any previous period of overstaying between periods of leave will also be disregarded where: the further application was made before 24 November 2016 and within 28 days of the expiry of leave; or the further application was made on or after 24 November 2016 and the Exceptions for overstayers section of Part Suitability applied.
+
+### Section D-ILRPT: Decision on application for indefinite leave to remain as a parent
+
+D-ILRPT.1.1. If the applicant meets all of the requirements for indefinite leave to remain as a parent the applicant will be granted indefinite leave to remain.
+
+D-ILRPT.1.2. If the applicant does not meet the requirements for indefinite leave to remain as a parent as they have not demonstrated sufficient knowledge of the English language or about life in the United Kingdom in accordance with Appendix KoLL, subject to compliance with any requirement notified under paragraph GEN.1.15.(b), the applicant will be granted further limited leave to remain as a partner for a period not exceeding 30 months, and subject to a condition of no recourse to public funds.
+
+D-ILRPT.1.3. If the applicant does not meet all the eligibility requirements for indefinite leave to remain as a parent, and does not qualify for further limited leave to remain under paragraph D-ILRPT.1.2. or D-LTRPT.1.2A, the application will be refused, unless the applicant meets the requirements in paragraph R-LTRPT.1.1.(a), (b) and (d) for limited leave to remain as a parent. Where they do, and subject to compliance with any requirement notified under paragraph GEN.1.15.(b), the applicant will be granted further limited leave to remain as a parent for a period not exceeding 30 months under paragraph D-LTRPT.1.2. and subject to a condition of no recourse to public funds unless the Secretary of State considers that the person should not be subject to such a condition.
+
+Adult dependent relative, Show
+------------------------------
+
+### Section EC-DR: Entry clearance as an adult dependent relative
+
+EC-DR.1.1. DELETED.
+
+### Section E-ECDR: Eligibility for entry clearance as an adult dependent relative
+
+E-ECDR.1.1. DELETED.
+
+### Relationship requirements
+
+E-ECDR.2.1. DELETED
+
+E-ECDR.2.2. DELETED.
+
+E-ECDR.2.3. DELETED.
+
+E-ECDR.2.4. DELETED.
+
+E-ECDR.2.5. DELETED.
+
+### Financial requirements
+
+E-ECDR.3.1. DELETED.
+
+E-ECDR.3.2. DELETED.
+
+### Section D-ECDR: Decision on application for entry clearance as an adult dependent relative
+
+D-ECDR.1.1. DELETED.
+
+D-ECDR.1.2. DELETED.
+
+D-ECDR.1.3. DELETED.
+
+### Section R-ILRDR: Requirements for indefinite leave to remain as an adult dependent relative
+
+R-ILRDR.1.1. DELETED.
+
+### Section E-ILRDR: Eligibility for indefinite leave to remain as an adult dependent relative
+
+E-ILRDR.1.1. DELETED.
+
+E-ILRDR.1.2. DELETED.
+
+E-ILRDR.1.3. DELETED.
+
+E-ILRDR.1.4. DELETED.
+
+E-ILRDR.1.5. DELETED.
+
+### Section D-ILRDR: Decision on application for indefinite leave to remain as an adult dependent relative
+
+D-ILRDR.1.1. DELETED.
+
+D-ILRDR.1.2. DELETED.
+
+D-ILRDR.1.3. DELETED.
+
+D-ILRDR.1.4. DELETED.
+
+Deportation and removal, Show
+-----------------------------
+
+Where the Secretary of State or an immigration officer is considering deportation or removal of a person who claims that their deportation or removal from the UK would be a breach of the right to respect for private and family life under Article 8 of the Human Rights Convention that person may be required to make an application under this Appendix or Appendix Private Life, but if they are not required to make an application Part 13 of these Rules will apply.
+
+Print this page
+
+Is this page useful?
+--------------------
+
+*   [Maybe](https://www.gov.uk/contact/govuk)
+*    Yes this page is useful
+*    No this page is not useful
+
+ Thank you for your feedback 
+
+ Report a problem with this page 
+
+Help us improve GOV.UK
+----------------------
+
+Don’t include personal or financial information like your National Insurance number or credit card details.
+
+This field is for robots only. Please leave blank 
+
+What were you doing? 
+
+What went wrong? 
+
+Send Cancel 
+
+Help us improve GOV.UK
+----------------------
+
+To help us improve GOV.UK, we’d like to know more about your visit today. [Please fill in this survey (opens in a new tab)](https://www.smartsurvey.co.uk/s/gov-uk-banner/?c=/guidance/immigration-rules/immigration-rules-appendix-fm-family-members).
+
+ Cancel 
+
+Services and information
+------------------------
+
+*   [Benefits](https://www.gov.uk/browse/benefits)
+*   [Births, death, marriages and care](https://www.gov.uk/browse/births-deaths-marriages)
+*   [Business and self-employed](https://www.gov.uk/browse/business)
+*   [Childcare and parenting](https://www.gov.uk/browse/childcare-parenting)
+*   [Citizenship and living in the UK](https://www.gov.uk/browse/citizenship)
+*   [Crime, justice and the law](https://www.gov.uk/browse/justice)
+*   [Disabled people](https://www.gov.uk/browse/disabilities)
+*   [Driving and transport](https://www.gov.uk/browse/driving)
+*   [Education and learning](https://www.gov.uk/browse/education)
+*   [Employing people](https://www.gov.uk/browse/employing-people)
+*   [Environment and countryside](https://www.gov.uk/browse/environment-countryside)
+*   [Housing and local services](https://www.gov.uk/browse/housing-local-services)
+*   [Money and tax](https://www.gov.uk/browse/tax)
+*   [Passports, travel and living abroad](https://www.gov.uk/browse/abroad)
+*   [Visas and immigration](https://www.gov.uk/browse/visas-immigration)
+*   [Working, jobs and pensions](https://www.gov.uk/browse/working)
+
+Government activity
+-------------------
+
+*   [Departments](https://www.gov.uk/government/organisations)
+*   [News](https://www.gov.uk/search/news-and-communications)
+*   [Guidance and regulation](https://www.gov.uk/search/guidance-and-regulation)
+*   [Research and statistics](https://www.gov.uk/search/research-and-statistics)
+*   [Policy papers and consultations](https://www.gov.uk/search/policy-papers-and-consultations)
+*   [Transparency](https://www.gov.uk/search/transparency-and-freedom-of-information-releases)
+*   [How government works](https://www.gov.uk/government/how-government-works)
+*   [Get involved](https://www.gov.uk/government/get-involved)
+
+* * *
+
+Support links
+-------------
+
+*   [Help](https://www.gov.uk/help)
+*   [Privacy](https://www.gov.uk/help/privacy-notice)
+*   [Cookies](https://www.gov.uk/help/cookies)
+*   [Accessibility statement](https://www.gov.uk/help/accessibility-statement)
+*   [Contact](https://www.gov.uk/contact)
+*   [Terms and conditions](https://www.gov.uk/help/terms-conditions)
+*   [Rhestr o Wasanaethau Cymraeg](https://www.gov.uk/cymraeg)
+*   [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service)
+
+ All content is available under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/), except where otherwise stated 
+
+[© Crown copyright](https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/)
