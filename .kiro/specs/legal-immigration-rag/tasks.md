@@ -8,13 +8,13 @@
   - _Requirements: 10.1, 10.2_
 
 - [ ] 2. Implement storage layer with clean interfaces
-- [ ] 2.1 Create abstract storage interfaces
+- [x] 2.1 Create abstract storage interfaces
   - Write VectorStore ABC with methods: add_chunks, hybrid_search, delete_by_source
   - Write SessionStore ABC with methods: create_session, get_session, save_message, delete_session
   - Define Chunk, Document, and Conversation data models
   - _Requirements: 10.1_
 
-- [ ] 2.2 Implement ChromaDB vector store adapter
+- [x] 2.2 Implement ChromaDB vector store adapter
   - Create ChromaDBStore class implementing VectorStore interface
   - Implement add_chunks with metadata storage
   - Implement hybrid_search combining vector similarity and keyword matching
@@ -24,7 +24,7 @@
   - **Property 6: All Chunks Have Complete Metadata**
   - **Validates: Requirements 2.5, 5.3, 5.4**
 
-- [ ] 2.4 Implement Redis session store adapter
+- [x] 2.4 Implement Redis session store adapter
   - Create RedisSessionStore class implementing SessionStore interface
   - Implement session creation with unique ID generation
   - Implement message persistence with TTL configuration

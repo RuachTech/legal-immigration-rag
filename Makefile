@@ -18,6 +18,9 @@ help:
 install:
 	uv sync
 
+install-dev:
+	uv sync --dev
+
 sync:
 	uv sync --frozen
 
