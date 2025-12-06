@@ -47,7 +47,7 @@
   - **Property 4: Scraper Extracts Complete Hierarchical Metadata**
   - **Validates: Requirements 2.1, 2.2**
 
-- [ ] 3.3 Implement Summary-Augmented Chunking (SAC)
+- [x] 3.3 Implement Summary-Augmented Chunking (SAC)
   - Create chunker that splits documents by semantic boundaries
   - Generate document-level summary using LLM
   - Prepend summary to every chunk before embedding

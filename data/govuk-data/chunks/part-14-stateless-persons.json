@@ -16,7 +16,10 @@
         "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-14-stateless-persons",
         "scraped_at": "2025-12-06T17:22:16.167894"
       },
-      "text": "### Definition of a stateless person\n\n1.   401. DELETED."
+      "text": "### Definition of a stateless person\n\n1.   401. DELETED.",
+      "summary": "This provision defines a stateless person within UK immigration rules. It emphasizes the criteria for establishing statelessness but omits specific details in the current excerpt. No exceptions or thresholds are provided here.",
+      "augmented_text": "Document: Immigration Rules part 14: stateless persons\nPart: Immigration Rules part 14: stateless persons\nSection ID: 1\nSection: Definition of a stateless person\nTopic: definitions\n\nSummary: This provision defines a stateless person within UK immigration rules. It emphasizes the criteria for establishing statelessness but omits specific details in the current excerpt. No exceptions or thresholds are provided here.\n\n### Definition of a stateless person\n\n1.   401. DELETED.",
+      "needs_review": false
     },
     {
       "metadata": {
@@ -30,7 +33,10 @@
         "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-14-stateless-persons",
         "scraped_at": "2025-12-06T17:22:16.167943"
       },
-      "text": "### Exclusion from recognition as a stateless person\n\n1.   402. DELETED."
+      "text": "### Exclusion from recognition as a stateless person\n\n1.   402. DELETED.",
+      "summary": "This provision applies to individuals seeking recognition as stateless persons. It excludes those who are not stateless due to their nationality, or who are excluded under specific criteria, although detailed reasons are not specified in this deleted section. The exclusion emphasizes the importance of meeting precise statutory conditions for recognition.",
+      "augmented_text": "Document: Immigration Rules part 14: stateless persons\nPart: Immigration Rules part 14: stateless persons\nSection ID: 1\nSection: Exclusion from recognition as a stateless person\nTopic: suitability\n\nSummary: This provision applies to individuals seeking recognition as stateless persons. It excludes those who are not stateless due to their nationality, or who are excluded under specific criteria, although detailed reasons are not specified in this deleted section. The exclusion emphasizes the importance of meeting precise statutory conditions for recognition.\n\n### Exclusion from recognition as a stateless person\n\n1.   402. DELETED.",
+      "needs_review": false
     },
     {
       "metadata": {
@@ -44,7 +50,10 @@
         "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-14-stateless-persons",
         "scraped_at": "2025-12-06T17:22:16.167971"
       },
-      "text": "### Requirements for limited leave to remain as a stateless person\n\n1.   403. DELETED."
+      "text": "### Requirements for limited leave to remain as a stateless person\n\n1.   403. DELETED.",
+      "summary": "This provision applies to stateless persons seeking limited leave to remain. They must demonstrate their stateless status and meet specified eligibility criteria; specific conditions or exceptions are not detailed here.",
+      "augmented_text": "Document: Immigration Rules part 14: stateless persons\nPart: Immigration Rules part 14: stateless persons\nSection ID: 1\nSection: Requirements for limited leave to remain as a stateless person\nTopic: leave-to-remain\n\nSummary: This provision applies to stateless persons seeking limited leave to remain. They must demonstrate their stateless status and meet specified eligibility criteria; specific conditions or exceptions are not detailed here.\n\n### Requirements for limited leave to remain as a stateless person\n\n1.   403. DELETED.",
+      "needs_review": false
     },
     {
       "metadata": {
@@ -58,7 +67,13 @@
         "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-14-stateless-persons",
         "scraped_at": "2025-12-06T17:22:16.167995"
       },
-      "text": "### Refusal of limited leave to remain as a stateless person\n\n1.   404. DELETED."
+      "text": "### Refusal of limited leave to remain as a stateless person\n\n1.   404. DELETED.",
+      "summary": "This provision applies to stateless persons seeking limited leave to remain in the UK. It states that their application may be refused, though specific grounds and conditions are not detailed in this excerpt; exceptions or thresholds are not specified here.",
+      "augmented_text": "Document: Immigration Rules part 14: stateless persons\nPart: Immigration Rules part 14: stateless persons\nSection ID: 1\nSection: Refusal of limited leave to remain as a stateless person\nTopic: suitability\n\nSummary: This provision applies to stateless persons seeking limited leave to remain in the UK. It states that their application may be refused, though specific grounds and conditions are not detailed in this excerpt; exceptions or thresholds are not specified here.\n\n### Refusal of limited leave to remain as a stateless person\n\n1.   404. DELETED.",
+      "needs_review": true,
+      "review_reasons": [
+        "404_error"
+      ]
     },
     {
       "metadata": {
@@ -72,7 +87,10 @@
         "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-14-stateless-persons",
         "scraped_at": "2025-12-06T17:22:16.168021"
       },
-      "text": "### Grant of limited leave to remain to a stateless person\n\n1.   405. DELETED."
+      "text": "### Grant of limited leave to remain to a stateless person\n\n1.   405. DELETED.",
+      "summary": "This provision applies to stateless persons seeking immigration status. It grants them limited leave to remain, subject to eligibility and specific conditions outlined in the Rules; certain criteria and procedural requirements must be met.",
+      "augmented_text": "Document: Immigration Rules part 14: stateless persons\nPart: Immigration Rules part 14: stateless persons\nSection ID: 1\nSection: Grant of limited leave to remain to a stateless person\nTopic: leave-to-remain\n\nSummary: This provision applies to stateless persons seeking immigration status. It grants them limited leave to remain, subject to eligibility and specific conditions outlined in the Rules; certain criteria and procedural requirements must be met.\n\n### Grant of limited leave to remain to a stateless person\n\n1.   405. DELETED.",
+      "needs_review": false
     },
     {
       "metadata": {
@@ -86,7 +104,10 @@
         "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-14-stateless-persons",
         "scraped_at": "2025-12-06T17:22:16.168049"
       },
-      "text": "### Curtailment of limited leave to remain as a stateless person\n\n1.   406. DELETED."
+      "text": "### Curtailment of limited leave to remain as a stateless person\n\n1.   406. DELETED.",
+      "summary": "This provision applies to stateless persons with limited leave to remain in the UK. It mandates the curtailment of their leave if specific conditions are met, though details are not provided in the deleted section. No exceptions or thresholds are specified in this excerpt.",
+      "augmented_text": "Document: Immigration Rules part 14: stateless persons\nPart: Immigration Rules part 14: stateless persons\nSection ID: 1\nSection: Curtailment of limited leave to remain as a stateless person\nTopic: leave-to-remain\n\nSummary: This provision applies to stateless persons with limited leave to remain in the UK. It mandates the curtailment of their leave if specific conditions are met, though details are not provided in the deleted section. No exceptions or thresholds are specified in this excerpt.\n\n### Curtailment of limited leave to remain as a stateless person\n\n1.   406. DELETED.",
+      "needs_review": false
     },
     {
       "metadata": {
@@ -100,7 +121,10 @@
         "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-14-stateless-persons",
         "scraped_at": "2025-12-06T17:22:16.168075"
       },
-      "text": "### Requirements for indefinite leave to remain as a stateless person\n\n1.   407. DELETED."
+      "text": "### Requirements for indefinite leave to remain as a stateless person\n\n1.   407. DELETED.",
+      "summary": "This provision applies to stateless persons seeking indefinite leave to remain. It requires applicants to demonstrate they meet specific legal criteria for statelessness and eligibility. There are no detailed conditions specified in this excerpt.",
+      "augmented_text": "Document: Immigration Rules part 14: stateless persons\nPart: Immigration Rules part 14: stateless persons\nSection ID: 1\nSection: Requirements for indefinite leave to remain as a stateless person\nTopic: leave-to-remain\n\nSummary: This provision applies to stateless persons seeking indefinite leave to remain. It requires applicants to demonstrate they meet specific legal criteria for statelessness and eligibility. There are no detailed conditions specified in this excerpt.\n\n### Requirements for indefinite leave to remain as a stateless person\n\n1.   407. DELETED.",
+      "needs_review": false
     },
     {
       "metadata": {
@@ -114,7 +138,10 @@
         "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-14-stateless-persons",
         "scraped_at": "2025-12-06T17:22:16.168103"
       },
-      "text": "### Grant of indefinite leave remain as a stateless person\n\n408. DELETED."
+      "text": "### Grant of indefinite leave remain as a stateless person\n\n408. DELETED.",
+      "summary": "This provision applies to stateless persons seeking indefinite leave to remain. It requires applicants to meet specific criteria demonstrating their stateless status, with review processes and eligibility conditions, though detailed specifics are deleted from this section.",
+      "augmented_text": "Document: Immigration Rules part 14: stateless persons\nPart: Immigration Rules part 14: stateless persons\nSection ID: 408\nSection: Grant of indefinite leave remain as a stateless person\nTopic: settlement\n\nSummary: This provision applies to stateless persons seeking indefinite leave to remain. It requires applicants to meet specific criteria demonstrating their stateless status, with review processes and eligibility conditions, though detailed specifics are deleted from this section.\n\n### Grant of indefinite leave remain as a stateless person\n\n408. DELETED.",
+      "needs_review": false
     },
     {
       "metadata": {
@@ -128,7 +155,10 @@
         "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-14-stateless-persons",
         "scraped_at": "2025-12-06T17:22:16.168126"
       },
-      "text": "### Refusal of indefinite leave to remain as a stateless person\n\n409. DELETED."
+      "text": "### Refusal of indefinite leave to remain as a stateless person\n\n409. DELETED.",
+      "summary": "This provision applies to stateless persons seeking indefinite leave to remain. It stipulates that applications will be refused unless the individual meets specific criteria, with certain exceptions or conditions potentially applying. The detailed requirements are not specified in this deleted section.",
+      "augmented_text": "Document: Immigration Rules part 14: stateless persons\nPart: Immigration Rules part 14: stateless persons\nSection ID: 409\nSection: Refusal of indefinite leave to remain as a stateless person\nTopic: suitability\n\nSummary: This provision applies to stateless persons seeking indefinite leave to remain. It stipulates that applications will be refused unless the individual meets specific criteria, with certain exceptions or conditions potentially applying. The detailed requirements are not specified in this deleted section.\n\n### Refusal of indefinite leave to remain as a stateless person\n\n409. DELETED.",
+      "needs_review": false
     },
     {
       "metadata": {
@@ -142,7 +172,10 @@
         "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-14-stateless-persons",
         "scraped_at": "2025-12-06T17:22:16.168154"
       },
-      "text": "### Requirements for limited leave to enter or remain as the family member of a stateless person\n\n1.   410. DELETED.\n2.   411. DELETED."
+      "text": "### Requirements for limited leave to enter or remain as the family member of a stateless person\n\n1.   410. DELETED.\n2.   411. DELETED.",
+      "summary": "This provision applies to family members of stateless persons seeking limited leave to enter or remain. They must meet specific eligibility criteria, with certain conditions or exceptions potentially affecting their application, though detailed requirements are omitted here.",
+      "augmented_text": "Document: Immigration Rules part 14: stateless persons\nPart: Immigration Rules part 14: stateless persons\nSection ID: 1\nSection: Requirements for limited leave to enter or remain as the family member of a stateless person\nTopic: leave-to-enter\n\nSummary: This provision applies to family members of stateless persons seeking limited leave to enter or remain. They must meet specific eligibility criteria, with certain conditions or exceptions potentially affecting their application, though detailed requirements are omitted here.\n\n### Requirements for limited leave to enter or remain as the family member of a stateless person\n\n1.   410. DELETED.\n2.   411. DELETED.",
+      "needs_review": false
     },
     {
       "metadata": {
@@ -156,7 +189,10 @@
         "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-14-stateless-persons",
         "scraped_at": "2025-12-06T17:22:16.168177"
       },
-      "text": "### Refusal of leave to enter or remain as the family member of a stateless person\n\n1.   412. DELETED."
+      "text": "### Refusal of leave to enter or remain as the family member of a stateless person\n\n1.   412. DELETED.",
+      "summary": "This provision applies to family members of stateless persons seeking leave to enter or remain in the UK. It states that applications may be refused, with specific legal reasoning, but the key detailed criteria are deleted from this section. No additional conditions or exceptions are specified in this excerpt.",
+      "augmented_text": "Document: Immigration Rules part 14: stateless persons\nPart: Immigration Rules part 14: stateless persons\nSection ID: 1\nSection: Refusal of leave to enter or remain as the family member of a stateless person\nTopic: suitability\n\nSummary: This provision applies to family members of stateless persons seeking leave to enter or remain in the UK. It states that applications may be refused, with specific legal reasoning, but the key detailed criteria are deleted from this section. No additional conditions or exceptions are specified in this excerpt.\n\n### Refusal of leave to enter or remain as the family member of a stateless person\n\n1.   412. DELETED.",
+      "needs_review": false
     },
     {
       "metadata": {
@@ -170,7 +206,10 @@
         "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-14-stateless-persons",
         "scraped_at": "2025-12-06T17:22:16.168202"
       },
-      "text": "### Grant of leave to enter or remain as the family member of a stateless person\n\n1.   413. DELETED."
+      "text": "### Grant of leave to enter or remain as the family member of a stateless person\n\n1.   413. DELETED.",
+      "summary": "This provision applies to family members of stateless persons seeking entry or leave to remain in the UK. They must demonstrate their relationship and meet relevant requirements, with specific conditions and applicable exceptions outlined in the full rules.",
+      "augmented_text": "Document: Immigration Rules part 14: stateless persons\nPart: Immigration Rules part 14: stateless persons\nSection ID: 1\nSection: Grant of leave to enter or remain as the family member of a stateless person\nTopic: leave-to-enter\n\nSummary: This provision applies to family members of stateless persons seeking entry or leave to remain in the UK. They must demonstrate their relationship and meet relevant requirements, with specific conditions and applicable exceptions outlined in the full rules.\n\n### Grant of leave to enter or remain as the family member of a stateless person\n\n1.   413. DELETED.",
+      "needs_review": false
     },
     {
       "metadata": {
@@ -184,7 +223,10 @@
         "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-14-stateless-persons",
         "scraped_at": "2025-12-06T17:22:16.168228"
       },
-      "text": "### Curtailment of limited leave to enter or remain as the family member of a stateless person\n\n1.   414. DELETED."
+      "text": "### Curtailment of limited leave to enter or remain as the family member of a stateless person\n\n1.   414. DELETED.",
+      "summary": "This provision applies to family members of stateless persons holding limited leave to enter or remain. It authorizes the curtailment of their leave if certain conditions are met, though specific details are deleted in the current text. Critical thresholds or exceptions are not specified.",
+      "augmented_text": "Document: Immigration Rules part 14: stateless persons\nPart: Immigration Rules part 14: stateless persons\nSection ID: 1\nSection: Curtailment of limited leave to enter or remain as the family member of a stateless person\nTopic: leave-to-enter\n\nSummary: This provision applies to family members of stateless persons holding limited leave to enter or remain. It authorizes the curtailment of their leave if certain conditions are met, though specific details are deleted in the current text. Critical thresholds or exceptions are not specified.\n\n### Curtailment of limited leave to enter or remain as the family member of a stateless person\n\n1.   414. DELETED.",
+      "needs_review": false
     },
     {
       "metadata": {
@@ -198,7 +240,10 @@
         "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-14-stateless-persons",
         "scraped_at": "2025-12-06T17:22:16.168254"
       },
-      "text": "### Requirements for indefinite leave to remain as the family member of a stateless person\n\n1.   415. DELETED."
+      "text": "### Requirements for indefinite leave to remain as the family member of a stateless person\n\n1.   415. DELETED.",
+      "summary": "This provision applies to family members of stateless persons seeking indefinite leave to remain. They must meet specified eligibility criteria and conditions, with certain exceptions or thresholds outlined, to qualify for ILR under this route.",
+      "augmented_text": "Document: Immigration Rules part 14: stateless persons\nPart: Immigration Rules part 14: stateless persons\nSection ID: 1\nSection: Requirements for indefinite leave to remain as the family member of a stateless person\nTopic: leave-to-remain\n\nSummary: This provision applies to family members of stateless persons seeking indefinite leave to remain. They must meet specified eligibility criteria and conditions, with certain exceptions or thresholds outlined, to qualify for ILR under this route.\n\n### Requirements for indefinite leave to remain as the family member of a stateless person\n\n1.   415. DELETED.",
+      "needs_review": false
     },
     {
       "metadata": {
@@ -212,7 +257,10 @@
         "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-14-stateless-persons",
         "scraped_at": "2025-12-06T17:22:16.168287"
       },
-      "text": "### Refusal of indefinite leave to remain as the family member of a stateless person\n\n1.   416. DELETED.\n\n1.   417. Applications made on or before 10 November 2025 for permission as a partner or child of a stateless person will be decided under the Part 14 rules in force at that time. Applications on or after 11 November 2025 will be decided under Appendix Statelessness rules, if the applicant meets its requirements. If not, the applicant must apply for permission under Appendix FM.\n\n1.   418. DELETED.\n\nPrint this page"
+      "text": "### Refusal of indefinite leave to remain as the family member of a stateless person\n\n1.   416. DELETED.\n\n1.   417. Applications made on or before 10 November 2025 for permission as a partner or child of a stateless person will be decided under the Part 14 rules in force at that time. Applications on or after 11 November 2025 will be decided under Appendix Statelessness rules, if the applicant meets its requirements. If not, the applicant must apply for permission under Appendix FM.\n\n1.   418. DELETED.\n\nPrint this page",
+      "summary": "This provision applies to family members applying for indefinite leave to remain as the partner or child of a stateless person. Applications made on or after 11 November 2025 must meet the requirements of the Appendix Statelessness rules; if not, they must apply under Appendix FM. Applications made before this date are decided under existing rules in force at that time.",
+      "augmented_text": "Document: Immigration Rules part 14: stateless persons\nPart: Immigration Rules part 14: stateless persons\nSection ID: 1\nSection: Refusal of indefinite leave to remain as the family member of a stateless person\nTopic: suitability\n\nSummary: This provision applies to family members applying for indefinite leave to remain as the partner or child of a stateless person. Applications made on or after 11 November 2025 must meet the requirements of the Appendix Statelessness rules; if not, they must apply under Appendix FM. Applications made before this date are decided under existing rules in force at that time.\n\n### Refusal of indefinite leave to remain as the family member of a stateless person\n\n1.   416. DELETED.\n\n1.   417. Applications made on or before 10 November 2025 for permission as a partner or child of a stateless person will be decided under the Part 14 rules in force at that time. Applications on or after 11 November 2025 will be decided under Appendix Statelessness rules, if the applicant meets its requirements. If not, the applicant must apply for permission under Appendix FM.\n\n1.   418. DELETED.\n\nPrint this page",
+      "needs_review": false
     }
   ]
 }
