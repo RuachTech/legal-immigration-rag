@@ -36,9 +36,9 @@
 
 
 - [ ] 3. Build data ingestion pipeline for GOV.UK Immigration Rules
-- [ ] 3.1 Implement GOV.UK scraper
+- [x] 3.1 Implement GOV.UK scraper
   - Write scraper to fetch Immigration Rules from GOV.UK (start with Appendix Skilled Worker)
-  - Parse HTML structure to extract Parts, Sections, and Paragraphs
+  - Parse structure to extract Parts, Sections, and Paragraphs
   - Extract hierarchical metadata (part_number, section_id, parent-child relationships)
   - Implement rate limiting and respect robots.txt
   - _Requirements: 2.1, 2.2_
