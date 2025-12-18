@@ -2,7 +2,6 @@
 
 from abc import ABC, abstractmethod
 from dataclasses import dataclass
-from datetime import datetime
 from typing import Any, Optional
 
 
@@ -31,21 +30,21 @@ class Chunk:
 
 class VectorStore(ABC):
     """Abstract interface for vector database operations.
-    
+
     This interface allows swapping between different vector database
     implementations (ChromaDB, Weaviate, etc.) without changing
     application code.
     """
-    
+
     @abstractmethod
     def add_chunks(self, chunks: list[Chunk]) -> None:
         """Store chunks with embeddings and metadata.
-        
+
         Args:
             chunks: List of Chunk objects to store
         """
         pass
-    
+
     @abstractmethod
     def hybrid_search(
         self,
@@ -55,7 +54,7 @@ class VectorStore(ABC):
         filters: Optional[dict[str, Any]] = None
     ) -> list[Chunk]:
         """Perform hybrid vector + keyword search.
-        
+
         Args:
             query: The search query text
             query_embedding: Embedding of the query
@@ -65,11 +64,11 @@ class VectorStore(ABC):
             List of relevant Chunk objects
         """
         pass
-    
+
     @abstractmethod
     def delete_by_source(self, source: str) -> None:
         """Delete all chunks from a given source document.
-        
+
         Args:
             source: Source document identifier
         """

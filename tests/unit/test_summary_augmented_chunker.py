@@ -8,17 +8,19 @@ Tests cover:
 - Integration with storage layer
 """
 
+from unittest.mock import MagicMock, patch
+
 import pytest
-from unittest.mock import Mock, patch, MagicMock
+
 from data_pipeline.processing import (
-    RecursiveCharacterTextSplitter,
-    LLMDocumentSummarizer,
-    SummaryAugmentedChunker,
-    DocumentInfo,
     ChunkInfo,
+    DocumentInfo,
+    LLMDocumentSummarizer,
+    RecursiveCharacterTextSplitter,
+    SummaryAugmentedChunker,
+    create_embedding_stub,
     sac_chunk_to_storage_chunk,
     sac_chunks_to_storage_chunks,
-    create_embedding_stub,
 )
 from storage.vector.base import Chunk, ChunkMetadata
 
@@ -28,10 +30,12 @@ class TestRecursiveCharacterTextSplitter:
 
     def test_split_by_paragraphs(self):
         """Should split at paragraph boundaries first."""
-        text = "First paragraph with more content to reach the limit.\n\nSecond paragraph with even more content here.\n\nThird paragraph with substantial additional text to ensure proper splitting."
+        text = "First paragraph with more content to reach the limit.\n\n" \
+        "Second paragraph with even more content here.\n\nThird paragraph with " \
+        "substantial additional text to ensure proper splitting."
         splitter = RecursiveCharacterTextSplitter(max_chunk_size=80)
         chunks = splitter.split(text)
-        
+
         assert len(chunks) >= 2
         assert "First paragraph" in chunks[0]
         # Verify chunks don't exceed max size
@@ -43,7 +47,7 @@ class TestRecursiveCharacterTextSplitter:
         text = "word " * 500  # 2500 chars
         splitter = RecursiveCharacterTextSplitter(max_chunk_size=100)
         chunks = splitter.split(text)
-        
+
         for chunk in chunks:
             assert len(chunk) <= 150  # Allow some flexibility for word boundaries
 
@@ -52,7 +56,7 @@ class TestRecursiveCharacterTextSplitter:
         text = "This is a short sentence."
         splitter = RecursiveCharacterTextSplitter(max_chunk_size=1000)
         chunks = splitter.split(text)
-        
+
         assert len(chunks) == 1
         assert chunks[0] == text
 
@@ -60,18 +64,15 @@ class TestRecursiveCharacterTextSplitter:
         """Empty string should return empty list."""
         splitter = RecursiveCharacterTextSplitter()
         chunks = splitter.split("")
-        
+
         assert chunks == [""]
 
     def test_handles_multiple_separators(self):
         """Should try separators in order."""
         text = "A\n\nB\nC D E"
-        splitter = RecursiveCharacterTextSplitter(
-            max_chunk_size=50,
-            separators=["\n\n", "\n", " "]
-        )
+        splitter = RecursiveCharacterTextSplitter(max_chunk_size=50, separators=["\n\n", "\n", " "])
         chunks = splitter.split(text)
-        
+
         # Should split at \n\n first
         assert len(chunks) >= 1
         assert all(chunk.strip() for chunk in chunks if chunk)
@@ -80,17 +81,16 @@ class TestRecursiveCharacterTextSplitter:
         """Should preserve clause structure within chunks."""
         text = """
         Section 1: Eligibility
-        
+
         1.1 The applicant must meet all of the following requirements:
         (a) Be at least 18 years old
         (b) Have a valid passport
         (c) Have adequate funds
-        
         Section 2: Application Process
         """
         splitter = RecursiveCharacterTextSplitter(max_chunk_size=200)
         chunks = splitter.split(text)
-        
+
         # Verify no clause is split mid-requirement
         full_text = " ".join(chunks)
         assert full_text.count("(a)") >= 1
@@ -100,14 +100,10 @@ class TestRecursiveCharacterTextSplitter:
 class TestLLMDocumentSummarizer:
     """Test LLM-based document summarization."""
 
-    @patch('data_pipeline.processing.summary_augmented_chunker.litellm.completion')
+    @patch("data_pipeline.processing.summary_augmented_chunker.litellm.completion")
     def test_generates_summary(self, mock_completion):
         """Should call litellm and return summary."""
-        mock_response = {
-            "choices": [
-                {"message": {"content": "This is a summary."}}
-            ]
-        }
+        mock_response = {"choices": [{"message": {"content": "This is a summary."}}]}
         mock_completion.return_value = mock_response
 
         summarizer = LLMDocumentSummarizer()
@@ -116,7 +112,7 @@ class TestLLMDocumentSummarizer:
         assert result == "This is a summary."
         mock_completion.assert_called_once()
 
-    @patch('data_pipeline.processing.summary_augmented_chunker.litellm.completion')
+    @patch("data_pipeline.processing.summary_augmented_chunker.litellm.completion")
     def test_handles_api_error(self, mock_completion):
         """Should fallback to title on API error."""
         mock_completion.side_effect = Exception("API error")
@@ -126,14 +122,10 @@ class TestLLMDocumentSummarizer:
 
         assert result == "Test Document"
 
-    @patch('data_pipeline.processing.summary_augmented_chunker.litellm.completion')
+    @patch("data_pipeline.processing.summary_augmented_chunker.litellm.completion")
     def test_truncates_long_documents(self, mock_completion):
         """Should only pass first 2000 chars to LLM."""
-        mock_completion.return_value = {
-            "choices": [
-                {"message": {"content": "Summary"}}
-            ]
-        }
+        mock_completion.return_value = {"choices": [{"message": {"content": "Summary"}}]}
 
         summarizer = LLMDocumentSummarizer()
         long_text = "a" * 5000
@@ -147,23 +139,20 @@ class TestLLMDocumentSummarizer:
 class TestSummaryAugmentedChunker:
     """Test the main SAC implementation."""
 
-    @patch('data_pipeline.processing.summary_augmented_chunker.LLMDocumentSummarizer')
+    @patch("data_pipeline.processing.summary_augmented_chunker.LLMDocumentSummarizer")
     def test_chunks_document(self, mock_summarizer_class):
         """Should split document and prepend summary to each chunk."""
         mock_summarizer = MagicMock()
         mock_summarizer.summarize.return_value = "Document Summary"
         mock_summarizer_class.return_value = mock_summarizer
-        
+
         chunker = SummaryAugmentedChunker(summarizer=mock_summarizer)
-        
+
         doc_text = "First part.\n\nSecond part.\n\nThird part."
-        doc_info = DocumentInfo(
-            title="Test Doc",
-            url="https://example.com/doc"
-        )
-        
+        doc_info = DocumentInfo(title="Test Doc", url="https://example.com/doc")
+
         chunks = chunker.chunk_document(doc_text, doc_info)
-        
+
         assert len(chunks) >= 1
         # Each chunk should have augmented content with summary
         for chunk in chunks:
@@ -171,25 +160,25 @@ class TestSummaryAugmentedChunker:
             assert chunk["summary"] == "Document Summary"
             assert chunk["metadata"]["source"] == "Test Doc"
 
-    @patch('data_pipeline.processing.summary_augmented_chunker.LLMDocumentSummarizer')
+    @patch("data_pipeline.processing.summary_augmented_chunker.LLMDocumentSummarizer")
     def test_metadata_attachment(self, mock_summarizer_class):
         """Should attach complete hierarchical metadata."""
         mock_summarizer = MagicMock()
         mock_summarizer.summarize.return_value = "Summary"
         mock_summarizer_class.return_value = mock_summarizer
-        
+
         chunker = SummaryAugmentedChunker(summarizer=mock_summarizer)
-        
+
         doc_text = "Content here."
         doc_info = DocumentInfo(
             title="Appendix Skilled Worker",
             url="https://gov.uk/skilled-worker",
             effective_date="2025-01-01",
-            version="1.2"
+            version="1.2",
         )
-        
+
         chunks = chunker.chunk_document(doc_text, doc_info)
-        
+
         assert len(chunks) >= 1
         metadata = chunks[0]["metadata"]
         assert metadata["source"] == "Appendix Skilled Worker"
@@ -198,66 +187,66 @@ class TestSummaryAugmentedChunker:
         assert metadata["version"] == "1.2"
         assert "chunk_number" in metadata
 
-    @patch('data_pipeline.processing.summary_augmented_chunker.LLMDocumentSummarizer')
+    @patch("data_pipeline.processing.summary_augmented_chunker.LLMDocumentSummarizer")
     def test_structure_extraction_callback(self, mock_summarizer_class):
         """Should call extract_structure_fn if provided."""
         mock_summarizer = MagicMock()
         mock_summarizer.summarize.return_value = "Summary"
         mock_summarizer_class.return_value = mock_summarizer
-        
+
         def extract_structure(chunk_text):
             return ChunkInfo(
                 raw_content=chunk_text,
                 chunk_number=1,
                 part="Part 1",
                 section="1.1",
-                topic="Eligibility"
+                topic="Eligibility",
             )
-        
+
         chunker = SummaryAugmentedChunker(summarizer=mock_summarizer)
-        
+
         doc_text = "Content here."
         doc_info = DocumentInfo(title="Test", url="http://test.com")
-        
+
         chunks = chunker.chunk_document(doc_text, doc_info, extract_structure)
-        
+
         assert chunks[0]["metadata"]["part"] == "Part 1"
         assert chunks[0]["metadata"]["section"] == "1.1"
         assert chunks[0]["metadata"]["topic"] == "Eligibility"
 
-    @patch('data_pipeline.processing.summary_augmented_chunker.LLMDocumentSummarizer')
+    @patch("data_pipeline.processing.summary_augmented_chunker.LLMDocumentSummarizer")
     def test_multiple_documents(self, mock_summarizer_class):
         """Should process multiple documents."""
         mock_summarizer = MagicMock()
         mock_summarizer.summarize.side_effect = ["Summary 1", "Summary 2"]
         mock_summarizer_class.return_value = mock_summarizer
-        
+
         chunker = SummaryAugmentedChunker(summarizer=mock_summarizer)
-        
+
         documents = [
             ("First doc content.", DocumentInfo("Doc1", "http://1.com")),
-            ("Second doc content.", DocumentInfo("Doc2", "http://2.com"))
+            ("Second doc content.", DocumentInfo("Doc2", "http://2.com")),
         ]
-        
+
         all_chunks = chunker.chunk_documents(documents)
-        
+
         assert len(all_chunks) >= 2
         assert mock_summarizer.summarize.call_count == 2
 
-    @patch('data_pipeline.processing.summary_augmented_chunker.LLMDocumentSummarizer')
+    @patch("data_pipeline.processing.summary_augmented_chunker.LLMDocumentSummarizer")
     def test_unique_chunk_ids(self, mock_summarizer_class):
         """Each chunk should have a unique ID."""
         mock_summarizer = MagicMock()
         mock_summarizer.summarize.return_value = "Summary"
         mock_summarizer_class.return_value = mock_summarizer
-        
+
         chunker = SummaryAugmentedChunker(summarizer=mock_summarizer)
-        
+
         doc_text = "Chunk 1.\n\nChunk 2.\n\nChunk 3."
         doc_info = DocumentInfo("Test", "http://test.com")
-        
+
         chunks = chunker.chunk_document(doc_text, doc_info)
-        
+
         ids = [chunk["id"] for chunk in chunks]
         assert len(ids) == len(set(ids))  # All unique
 
@@ -268,7 +257,7 @@ class TestChunkConverter:
     def test_embedding_stub_creation(self):
         """Should create correct-sized embedding stub."""
         stub = create_embedding_stub(size=1536)
-        
+
         assert len(stub) == 1536
         assert all(x == 0.0 for x in stub)
 
@@ -289,13 +278,13 @@ class TestChunkConverter:
                 "topic": "Eligibility",
                 "chunk_number": 1,
                 "effective_date": "2025-01-01",
-                "version": "1.0"
-            }
+                "version": "1.0",
+            },
         }
-        
+
         embedding = [0.1] * 1536
         storage_chunk = sac_chunk_to_storage_chunk(sac_chunk, embedding)
-        
+
         assert isinstance(storage_chunk, Chunk)
         assert storage_chunk.id == "chunk-123"
         assert storage_chunk.content == "Summary\n\nOriginal content"
@@ -321,15 +310,15 @@ class TestChunkConverter:
                     "parent_section": "Part 1",
                     "hierarchy_level": 1,
                     "topic": "Topic",
-                    "chunk_number": i
-                }
+                    "chunk_number": i,
+                },
             }
             for i in range(3)
         ]
-        
+
         embeddings = [[0.1] * 1536 for _ in range(3)]
         storage_chunks = sac_chunks_to_storage_chunks(sac_chunks, embeddings)
-        
+
         assert len(storage_chunks) == 3
         for i, chunk in enumerate(storage_chunks):
             assert chunk.id == f"chunk-{i}"
@@ -350,12 +339,12 @@ class TestChunkConverter:
                 "parent_section": None,
                 "hierarchy_level": 0,
                 "topic": "Topic",
-                "chunk_number": 1
-            }
+                "chunk_number": 1,
+            },
         }
-        
+
         storage_chunk = sac_chunk_to_storage_chunk(sac_chunk, embedding=None)
-        
+
         assert len(storage_chunk.embedding) == 1536
         assert all(x == 0.0 for x in storage_chunk.embedding)
 

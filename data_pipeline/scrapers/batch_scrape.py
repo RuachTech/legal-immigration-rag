@@ -46,16 +46,16 @@ Output:
     data/govuk-data/scrape_log.json    - Scrape history for resume capability
 """
 
+import argparse
+import asyncio
+import json
+import logging
 import os
 import sys
-import json
-import asyncio
-import argparse
-import logging
-from pathlib import Path
+from dataclasses import asdict, dataclass
 from datetime import datetime
-from typing import List, Dict, Optional, Set
-from dataclasses import dataclass, asdict
+from pathlib import Path
+from typing import List, Optional, Set
 
 # Add parent directory to path for imports
 sys.path.insert(0, str(Path(__file__).parent))
@@ -352,7 +352,7 @@ async def batch_scrape(
 
     logger.info(f"\n{'='*60}")
     logger.info(f"Starting batch scrape of {len(urls)} URLs")
-    logger.info(f"Rate limit: 20 RPM (3 seconds between requests)")
+    logger.info("Rate limit: 20 RPM (3 seconds between requests)")
     logger.info(f"Estimated time: ~{len(urls) * 3 / 60:.1f} minutes")
     logger.info(f"{'='*60}\n")
 
@@ -425,19 +425,19 @@ def parse_args():
 Examples:
     # Scrape all URLs
     python batch_scrape.py
-    
+
     # Scrape only appendices
     python batch_scrape.py --type appendix
-    
+
     # Scrape specific pages
     python batch_scrape.py --slugs appendix-fm,appendix-skilled-worker
-    
+
     # Resume interrupted scrape
     python batch_scrape.py --resume
-    
+
     # Preview what would be scraped
     python batch_scrape.py --dry-run
-    
+
     # Scrape first 5 pages only
     python batch_scrape.py --limit 5
         """,

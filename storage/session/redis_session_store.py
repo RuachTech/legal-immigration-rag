@@ -12,18 +12,18 @@ from storage.session.base import Citation, Conversation, Message, Rationale, Ses
 
 class RedisSessionStore(SessionStore):
     """Redis implementation of SessionStore interface.
-    
+
     Stores conversation sessions with TTL in Redis.
     Uses dependency injection for Redis client.
     """
-    
+
     def __init__(
         self,
         client: "redis.Redis[Any]",  # type: ignore[type-arg]
         ttl_seconds: int = 86400
     ) -> None:
         """Initialize Redis session store with injected client.
-        
+
         Args:
             client: Redis client instance (injected, with decode_responses=True)
             ttl_seconds: Time-to-live for sessions in seconds (default: 24 hours)
@@ -33,13 +33,13 @@ class RedisSessionStore(SessionStore):
 
     def create_session(self) -> str:
         """Create a new session with unique ID.
-        
+
         Returns:
             Unique session identifier (UUID4)
         """
         session_id = str(uuid.uuid4())
         now = datetime.utcnow().isoformat()
-        
+
         conversation_dict: dict[str, Any] = {
             "session_id": session_id,
             "user_id": None,
@@ -47,7 +47,7 @@ class RedisSessionStore(SessionStore):
             "created_at": now,
             "last_active": now
         }
-        
+
         self._client.setex(
             f"session:{session_id}",
             self._ttl_seconds,
@@ -57,22 +57,22 @@ class RedisSessionStore(SessionStore):
 
     def get_session(self, session_id: str) -> Conversation:
         """Retrieve a conversation session by ID.
-        
+
         Args:
             session_id: Unique session identifier
-            
+
         Returns:
             Conversation object with full message history
-            
+
         Raises:
             KeyError: If session not found
         """
         data = self._client.get(f"session:{session_id}")
         if not data:
             raise KeyError(f"Session {session_id} not found")
-        
+
         conv_dict: dict[str, Any] = json.loads(str(data))
-        
+
         # Deserialize messages with nested objects
         messages: list[Message] = []
         for msg_dict in conv_dict["messages"]:
@@ -91,7 +91,7 @@ class RedisSessionStore(SessionStore):
                 timestamp=datetime.fromisoformat(msg_dict["timestamp"])
             )
             messages.append(message)
-        
+
         return Conversation(
             session_id=conv_dict["session_id"],
             user_id=conv_dict.get("user_id"),
@@ -102,20 +102,20 @@ class RedisSessionStore(SessionStore):
 
     def save_message(self, session_id: str, message: Message) -> None:
         """Add a message to an existing session.
-        
+
         Args:
             session_id: Unique session identifier
             message: Message object to persist
-            
+
         Raises:
             KeyError: If session not found
         """
         data = self._client.get(f"session:{session_id}")
         if not data:
             raise KeyError(f"Session {session_id} not found")
-        
+
         conv_dict: dict[str, Any] = json.loads(str(data))
-        
+
         # Serialize message with nested objects
         message_dict: dict[str, Any] = {
             "id": message.id,
@@ -131,10 +131,10 @@ class RedisSessionStore(SessionStore):
             ],
             "timestamp": message.timestamp.isoformat()
         }
-        
+
         conv_dict["messages"].append(message_dict)
         conv_dict["last_active"] = datetime.utcnow().isoformat()
-        
+
         self._client.setex(
             f"session:{session_id}",
             self._ttl_seconds,
@@ -143,7 +143,7 @@ class RedisSessionStore(SessionStore):
 
     def delete_session(self, session_id: str) -> None:
         """Delete a session and all associated messages.
-        
+
         Args:
             session_id: Unique session identifier to delete
         """

@@ -31,7 +31,7 @@ def build_augmented_text(metadata: Dict[str, Any], summary: str, text: str) -> s
     section_id = metadata.get("section_id", "")
     section_title = metadata.get("section_title", "")
     topic = metadata.get("topic", "")
-    
+
     metadata_lines = []
     if source:
         metadata_lines.append(f"Document: {source}")
@@ -43,9 +43,9 @@ def build_augmented_text(metadata: Dict[str, Any], summary: str, text: str) -> s
         metadata_lines.append(f"Section: {section_title}")
     if topic:
         metadata_lines.append(f"Topic: {topic}")
-    
+
     metadata_header = "\n".join(metadata_lines)
-    
+
     # Build augmented text with proper structure
     parts = []
     if metadata_header:
@@ -53,7 +53,7 @@ def build_augmented_text(metadata: Dict[str, Any], summary: str, text: str) -> s
     if summary:
         parts.append(f"\nSummary: {summary}")
     parts.append(f"\n{text}")
-    
+
     return "\n".join(parts) if parts else text
 
 
@@ -61,25 +61,25 @@ def reformat_chunk_file(file_path: Path, in_place: bool = True) -> None:
     """Reformat augmented_text in a single chunk file."""
     data = json.loads(file_path.read_text(encoding="utf-8"))
     chunks = data.get("chunks", [])
-    
+
     if not chunks:
         logger.warning(f"No chunks in {file_path.name}, skipping")
         return
-    
+
     # Check if chunks have summary field (already enhanced)
     if "summary" not in chunks[0]:
         logger.warning(f"No summary field in {file_path.name}, skipping (not enhanced yet)")
         return
-    
+
     reformatted_chunks = []
     for chunk in chunks:
         metadata = chunk.get("metadata", {})
         text = chunk.get("text", "")
         summary = chunk.get("summary", "")
-        
+
         # Build new augmented text with metadata header
         augmented_text = build_augmented_text(metadata, summary, text)
-        
+
         # Update chunk with new augmented_text
         reformatted_chunk = {
             "metadata": metadata,
@@ -88,7 +88,7 @@ def reformat_chunk_file(file_path: Path, in_place: bool = True) -> None:
             "augmented_text": augmented_text,
         }
         reformatted_chunks.append(reformatted_chunk)
-    
+
     # Write updated file
     output_data = {
         "url": data.get("url"),
@@ -97,18 +97,16 @@ def reformat_chunk_file(file_path: Path, in_place: bool = True) -> None:
         "chunk_count": len(reformatted_chunks),
         "chunks": reformatted_chunks,
     }
-    
+
     if in_place:
         file_path.write_text(
-            json.dumps(output_data, ensure_ascii=False, indent=2),
-            encoding="utf-8"
+            json.dumps(output_data, ensure_ascii=False, indent=2), encoding="utf-8"
         )
         logger.info(f"✓ Reformatted {file_path.name} ({len(reformatted_chunks)} chunks)")
     else:
         output_path = file_path.parent / f"reformatted_{file_path.name}"
         output_path.write_text(
-            json.dumps(output_data, ensure_ascii=False, indent=2),
-            encoding="utf-8"
+            json.dumps(output_data, ensure_ascii=False, indent=2), encoding="utf-8"
         )
         logger.info(f"✓ Reformatted {file_path.name} → reformatted_{file_path.name}")
 
@@ -134,30 +132,30 @@ def main() -> None:
         type=int,
         help="Process only first N files (for testing)",
     )
-    
+
     args = parser.parse_args()
-    
+
     input_dir: Path = args.input_dir
     in_place: bool = args.in_place
     limit: int = args.limit
-    
+
     files = sorted([p for p in input_dir.glob("*.json") if p.stem != "index"])
     if not files:
         raise SystemExit(f"No JSON files in {input_dir}")
-    
+
     if limit:
         files = files[:limit]
         logger.info(f"Processing {len(files)} files (limit={limit})")
     else:
         logger.info(f"Processing {len(files)} files")
-    
+
     if in_place:
         logger.info(f"⚠️  IN-PLACE MODE: Files will be modified directly in {input_dir}")
-    
+
     for file_path in files:
         logger.info(f"\n📄 {file_path.name}")
         reformat_chunk_file(file_path, in_place)
-    
+
     logger.info(f"\n✅ Done! Reformatted {len(files)} files")
 
 
