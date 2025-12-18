@@ -1,0 +1,4 @@
+[MESSAGES CONTROL]
+disable=logging-fstring-interpolation
+disable=unnecessary-pass
+disable=import-outside-toplevel

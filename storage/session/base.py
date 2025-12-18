@@ -46,50 +46,50 @@ class Conversation:
 
 class SessionStore(ABC):
     """Abstract interface for session storage operations.
-    
+
     This interface allows swapping between different session storage
     implementations (Redis, MongoDB, etc.) without changing
     application code.
     """
-    
+
     @abstractmethod
     def create_session(self) -> str:
         """Create a new session and return session_id.
-        
+
         Returns:
             Unique session identifier
         """
         pass
-    
+
     @abstractmethod
     def get_session(self, session_id: str) -> Conversation:
         """Retrieve session by ID.
-        
+
         Args:
             session_id: The session identifier
-            
+
         Returns:
             Conversation object
-            
+
         Raises:
             KeyError: If session not found
         """
         pass
-    
+
     @abstractmethod
     def save_message(self, session_id: str, message: Message) -> None:
         """Add message to session.
-        
+
         Args:
             session_id: The session identifier
             message: Message to add to the session
         """
         pass
-    
+
     @abstractmethod
     def delete_session(self, session_id: str) -> None:
         """Remove session.
-        
+
         Args:
             session_id: The session identifier to delete
         """

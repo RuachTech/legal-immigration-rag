@@ -23,6 +23,9 @@ dependencies = [
     "beautifulsoup4>=4.12.0",
     "pytest>=7.4.0",
     "pytest-asyncio>=0.21.0",
+    "voyageai>=0.3.7",
+    "sentence-transformers>=5.1.2",
+    "tenacity>=9.1.2",
 ]
 
 [project.optional-dependencies]
@@ -59,11 +62,11 @@ markers = [
 asyncio_mode = "auto"
 
 [tool.black]
-line-length = 100
-target-version = ["py39", "py310", "py311"]
+line-length = 120
+target-version = ["py310", "py311"]
 
 [tool.ruff]
-line-length = 100
+line-length = 120
 target-version = "py311"
 select = ["E", "F", "I", "N", "W"]
 ignore = []

@@ -1,13 +1,14 @@
 """Property tests for Summary-Augmented Chunking (Property 5, Req 2.3)."""
 
 import pytest
-from hypothesis import given, strategies as st
+from hypothesis import given
+from hypothesis import strategies as st
 
 from data_pipeline.processing.summary_augmented_chunker import (
-    SummaryAugmentedChunker,
     DocumentInfo,
     DocumentSummarizer,
     RecursiveCharacterTextSplitter,
+    SummaryAugmentedChunker,
 )
 
 

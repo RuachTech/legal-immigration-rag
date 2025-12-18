@@ -14,11 +14,11 @@ Architecture:
 4. Attach hierarchical metadata (source, part, section, topic, url)
 """
 
+import logging
+import uuid
 from abc import ABC, abstractmethod
 from dataclasses import dataclass
 from typing import Optional
-import uuid
-import logging
 
 logger = logging.getLogger(__name__)
 
@@ -26,6 +26,7 @@ logger = logging.getLogger(__name__)
 try:  # pragma: no cover - import guard
     import litellm
 except ImportError:  # pragma: no cover
+
     class _LitellmStub:
         def completion(self, *args, **kwargs):
             raise ImportError("litellm not installed; run `uv add litellm`.")
@@ -36,6 +37,7 @@ except ImportError:  # pragma: no cover
 @dataclass
 class DocumentInfo:
     """Information about a source document."""
+
     title: str
     url: str
     effective_date: Optional[str] = None
@@ -45,6 +47,7 @@ class DocumentInfo:
 @dataclass
 class ChunkInfo:
     """Information extracted during chunking."""
+
     raw_content: str  # Original chunk text without summary
     chunk_number: int  # Position in document (1-based)
     part: Optional[str] = None
@@ -60,10 +63,10 @@ class DocumentSplitter(ABC):
     @abstractmethod
     def split(self, text: str) -> list[str]:
         """Split document into chunks respecting structure.
-        
+
         Args:
             text: The document text to split
-            
+
         Returns:
             List of chunk texts
         """
@@ -72,24 +75,21 @@ class DocumentSplitter(ABC):
 
 class RecursiveCharacterTextSplitter(DocumentSplitter):
     """Splits documents by semantic boundaries while preserving structure.
-    
+
     This splitter respects legal document structure by preferring to split:
     1. At section boundaries (highest priority)
     2. At paragraph boundaries
     3. At sentence boundaries
     4. At character boundaries (fallback)
-    
+
     This ensures clauses are not split mid-sentence, preserving legal meaning.
     """
 
     def __init__(
-        self,
-        max_chunk_size: int = 1000,
-        overlap: int = 100,
-        separators: Optional[list[str]] = None
+        self, max_chunk_size: int = 1000, overlap: int = 100, separators: Optional[list[str]] = None
     ):
         """Initialize the splitter.
-        
+
         Args:
             max_chunk_size: Target chunk size in characters
             overlap: Overlap between chunks for context preservation
@@ -99,15 +99,15 @@ class RecursiveCharacterTextSplitter(DocumentSplitter):
         self.overlap = overlap
         self.separators = separators or [
             "\n\n",  # Section boundaries
-            "\n",    # Paragraph boundaries
-            ". ",    # Sentence boundaries
-            " ",     # Word boundaries
-            ""       # Character fallback
+            "\n",  # Paragraph boundaries
+            ". ",  # Sentence boundaries
+            " ",  # Word boundaries
+            "",  # Character fallback
         ]
 
     def split(self, text: str) -> list[str]:
         """Split text into chunks respecting structure.
-        
+
         Uses a recursive approach: tries to split at the first separator,
         then recursively splits each piece if it exceeds max_chunk_size.
         """
@@ -138,11 +138,11 @@ class RecursiveCharacterTextSplitter(DocumentSplitter):
 
     def _merge_splits(self, splits: list[str], separator: str) -> list[str]:
         """Merge splits while respecting max_chunk_size.
-        
+
         Args:
             splits: List of text segments
             separator: The separator used
-            
+
         Returns:
             List of merged chunks
         """
@@ -162,7 +162,9 @@ class RecursiveCharacterTextSplitter(DocumentSplitter):
                     chunks.append(current_chunk)
                     # Add overlap from the end of current chunk
                     if self.overlap > 0:
-                        current_chunk = split[-self.overlap:] if len(split) > self.overlap else split
+                        current_chunk = (
+                            split[-self.overlap :] if len(split) > self.overlap else split
+                        )
                     else:
                         current_chunk = ""
                 else:
@@ -188,11 +190,11 @@ class DocumentSummarizer(ABC):
     @abstractmethod
     def summarize(self, text: str, doc_title: str) -> str:
         """Generate a summary of the document.
-        
+
         Args:
             text: The document text to summarize
             doc_title: Title of the document
-            
+
         Returns:
             Summary text (typically 1-2 sentences)
         """
@@ -226,7 +228,8 @@ class LLMDocumentSummarizer(DocumentSummarizer):
         Returns:
             Summary (1-2 sentences)
         """
-        prompt = f"""Given this legal document titled "{doc_title}", provide a very brief 1-2 sentence summary that captures what this document is about. Be specific about the visa type, requirements, or guidance.
+        prompt = f"""Given this legal document titled "{doc_title}",
+provide a very brief 1-2 sentence summary that captures what this document is about. Be specific about the visa type, requirements, or guidance.
 
 Document excerpt:
 {text[:2000]}
@@ -247,11 +250,7 @@ Summary:"""
 
             # Handle both dict and object response shapes
             if isinstance(response, dict):
-                summary = (
-                    response.get("choices", [{}])[0]
-                    .get("message", {})
-                    .get("content", "")
-                )
+                summary = response.get("choices", [{}])[0].get("message", {}).get("content", "")
             else:
                 summary = getattr(
                     getattr(response, "choices", [None])[0],
@@ -270,13 +269,13 @@ Summary:"""
 
 class SummaryAugmentedChunker:
     """Main implementation of Summary-Augmented Chunking (SAC).
-    
+
     SAC consists of:
     1. Document splitting respecting structure
     2. Document-level summary generation
     3. Summary prepending to every chunk
     4. Metadata attachment
-    
+
     This prevents Document-Level Retrieval Mismatch by ensuring chunks
     from different documents are distinguishable even when text is similar.
     """
@@ -286,10 +285,10 @@ class SummaryAugmentedChunker:
         splitter: Optional[DocumentSplitter] = None,
         summarizer: Optional[DocumentSummarizer] = None,
         max_chunk_size: int = 1000,
-        chunk_overlap: int = 100
+        chunk_overlap: int = 100,
     ):
         """Initialize the SAC chunker.
-        
+
         Args:
             splitter: Custom DocumentSplitter (defaults to RecursiveCharacterTextSplitter)
             summarizer: Custom DocumentSummarizer (defaults to LLMDocumentSummarizer)
@@ -297,25 +296,21 @@ class SummaryAugmentedChunker:
             chunk_overlap: Overlap between chunks
         """
         self.splitter = splitter or RecursiveCharacterTextSplitter(
-            max_chunk_size=max_chunk_size,
-            overlap=chunk_overlap
+            max_chunk_size=max_chunk_size, overlap=chunk_overlap
         )
         self.summarizer = summarizer or LLMDocumentSummarizer()
 
     def chunk_document(
-        self,
-        text: str,
-        doc_info: DocumentInfo,
-        extract_structure_fn=None
+        self, text: str, doc_info: DocumentInfo, extract_structure_fn=None
     ) -> list[dict]:
         """Split and augment a document with SAC.
-        
+
         Args:
             text: The document text
             doc_info: Metadata about the document
             extract_structure_fn: Optional function to extract hierarchical structure
                                  from chunk text. Should return ChunkInfo or dict.
-        
+
         Returns:
             List of chunk dictionaries with:
             - raw_content: original chunk text
@@ -341,12 +336,9 @@ class SummaryAugmentedChunker:
             chunk_info = None
             if extract_structure_fn:
                 chunk_info = extract_structure_fn(raw_chunk)
-            
+
             if not chunk_info:
-                chunk_info = ChunkInfo(
-                    raw_content=raw_chunk,
-                    chunk_number=chunk_number
-                )
+                chunk_info = ChunkInfo(raw_content=raw_chunk, chunk_number=chunk_number)
 
             # Step 3a: Prepend summary to chunk (SAC)
             augmented_content = f"{document_summary}\n\n{raw_chunk}"
@@ -362,31 +354,31 @@ class SummaryAugmentedChunker:
                 "topic": chunk_info.topic or "General",
                 "chunk_number": chunk_number,
                 "effective_date": doc_info.effective_date,
-                "version": doc_info.version
+                "version": doc_info.version,
             }
 
-            processed_chunks.append({
-                "id": str(uuid.uuid4()),
-                "raw_content": raw_chunk,
-                "augmented_content": augmented_content,
-                "summary": document_summary,
-                "metadata": metadata
-            })
+            processed_chunks.append(
+                {
+                    "id": str(uuid.uuid4()),
+                    "raw_content": raw_chunk,
+                    "augmented_content": augmented_content,
+                    "summary": document_summary,
+                    "metadata": metadata,
+                }
+            )
 
         logger.info(f"Processed {len(processed_chunks)} chunks with SAC")
         return processed_chunks
 
     def chunk_documents(
-        self,
-        documents: list[tuple[str, DocumentInfo]],
-        extract_structure_fn=None
+        self, documents: list[tuple[str, DocumentInfo]], extract_structure_fn=None
     ) -> list[dict]:
         """Process multiple documents.
-        
+
         Args:
             documents: List of (text, doc_info) tuples
             extract_structure_fn: Optional structure extraction function
-            
+
         Returns:
             List of all processed chunks
         """
@@ -394,6 +386,6 @@ class SummaryAugmentedChunker:
         for text, doc_info in documents:
             chunks = self.chunk_document(text, doc_info, extract_structure_fn)
             all_chunks.extend(chunks)
-        
+
         logger.info(f"Processed {len(documents)} documents into {len(all_chunks)} total chunks")
         return all_chunks
