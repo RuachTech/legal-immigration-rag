@@ -16,6 +16,11 @@ import logging
 import sys
 from pathlib import Path
 from typing import Dict
+import dotenv
+
+# Load environment variables from .env file
+dotenv.load_dotenv()
+
 
 # Add project root to path
 sys.path.insert(0, str(Path(__file__).parent.parent))
@@ -190,9 +195,8 @@ def print_summary(stats: Dict[str, any], embedder: LegalEmbedder):
 
     # Model info
     model_info = embedder.get_model_info()
-    logger.info("\nModel Configuration:")
-    logger.info(f"  Primary Model: {model_info['primary_model']}")
-    logger.info(f"  Fallback Model: {model_info.get('fallback_model', 'None')}")
+    logger.info(f"\nModel Configuration:")
+    logger.info(f"  Model: {model_info['model_name']}")
     logger.info(f"  Embedding Dimension: {model_info['embedding_dimension']}")
     logger.info(f"  Batch Size: {model_info['batch_size']}")
 

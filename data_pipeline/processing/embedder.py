@@ -6,6 +6,7 @@ or LEGAL-BERT models via simple configuration.
 """
 
 import logging
+import os
 from typing import Dict, List, Optional, Tuple
 
 from tenacity import (
@@ -64,6 +65,8 @@ class LegalEmbedder:
 
         # Initialize provider based on model name
         if model_name == "voyage-law-2" or model_name.startswith("voyage-"):
+            if api_key is None:
+                api_key = os.getenv("VOYAGE_API_KEY")
             self.provider = VoyageAIProvider(model_name=model_name, api_key=api_key)
         else:
             # Assume it's a sentence-transformers model (e.g., LEGAL-BERT)
