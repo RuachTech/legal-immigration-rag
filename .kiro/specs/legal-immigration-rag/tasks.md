@@ -64,13 +64,13 @@
   - **Property 14: Structure-Aware Chunking Preserves Clauses**
   - **Validates: Requirements 5.1, 5.2**
 
-- [ ] 3.6 Implement legal domain embedder
+- [x] 3.6 Implement legal domain embedder
   - Create embedder using voyage-law-2(with optional LEGAL-BERT model support)
   - Implement batch embedding for efficiency
   - Add error handling for API failures
   - _Requirements: 3.2_
 
-- [ ] 3.7 Create indexing pipeline
+- [x] 3.7 Create indexing pipeline
   - Connect scraper → chunker → embedder → vector store
   - Implement incremental indexing for updates
   - Add logging and progress tracking

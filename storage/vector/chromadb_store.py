@@ -44,17 +44,17 @@ class ChromaDBStore(VectorStore):
             ids.append(chunk.id)
             documents.append(chunk.content)
             embeddings.append(chunk.embedding)
-            # Convert metadata dataclass to dict
+            # Convert metadata dataclass to dict (ChromaDB doesn't accept None values)
             metadata_dict = {
-                "document_id": chunk.document_id,
-                "summary": chunk.summary,
-                "source": chunk.metadata.source,
-                "part": chunk.metadata.part,
-                "section": chunk.metadata.section,
-                "topic": chunk.metadata.topic,
-                "url": chunk.metadata.url,
+                "document_id": chunk.document_id or "",
+                "summary": chunk.summary or "",
+                "source": chunk.metadata.source or "",
+                "part": chunk.metadata.part or "",
+                "section": chunk.metadata.section or "",
+                "topic": chunk.metadata.topic or "",
+                "url": chunk.metadata.url or "",
                 "parent_section": chunk.metadata.parent_section or "",
-                "hierarchy_level": chunk.metadata.hierarchy_level,
+                "hierarchy_level": chunk.metadata.hierarchy_level or 0,
             }
             metadatas.append(metadata_dict)
 
